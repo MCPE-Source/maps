@@ -874,5 +874,95 @@
       "data/0.6.1/Toy Story 2 Adventure Map 1.2/screen_4_1782346910642.jpg"
     ],
     "original_link": "http://minecraftpeworlds.blogspot.com/p/toy-story-2-mcpe.html"
+  },
+  {
+    "title": "Sand Scrambler By Ace",
+    "version": "0.6.1",
+    "short_description": "Burn the wood above you with flint and steel and sand will start falling, last person standing wins",
+    "full_description": "Video By JackFrostMiner: https://www.youtube.com/watch?v=WCOq6O5EqFM",
+    "date": "2026-06-25 00:33",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.6.1/Sand Scrambler By Ace/thumb_1782347576278.jpg",
+    "file": "data/0.6.1/Sand Scrambler By Ace/Sand Scrambler By Ace.zip",
+    "screenshots": [
+      "data/0.6.1/Sand Scrambler By Ace/screen_1_1782347579109.jpg"
+    ],
+    "original_link": "https://www.youtube.com/watch?v=WCOq6O5EqFM"
+  },
+  {
+    "title": "Ollan Island PE",
+    "version": "0.8.1",
+    "short_description": "Ollan Island is a mp created by Enmah and ported to pocket edition by me, It features a roller coaster casino on the beachfront and a water slide, I hope you enjoy.",
+    "full_description": "",
+    "date": "2026-06-25 00:46",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.8.1/Ollan Island PE/thumb_1782348351529.jpg",
+    "file": "data/0.8.1/Ollan Island PE/Ollan Island PE.zip",
+    "screenshots": [
+      "data/0.8.1/Ollan Island PE/screen_1_1782348354305.jpg",
+      "data/0.8.1/Ollan Island PE/screen_2_1782348357773.jpg"
+    ],
+    "original_link": "https://web.archive.org/web/20131219070828/http://mcpeuniverse.com/maps/ollan-island-pc-port/"
+  },
+  {
+    "title": "School Rules Adventure Map",
+    "version": "0.8.1",
+    "short_description": "A new cool Map :)  It call School Rules!",
+    "full_description": "Rules:\n\n\nNod Mods\n\nNO CHEAT \n\nDONT PLAY ON PEACEFUL!\n\nHave fun♥ =)",
+    "date": "2026-06-25 00:55",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.8.1/School Rules Adventure Map/thumb_1782348931116.jpg",
+    "file": "data/0.8.1/School Rules Adventure Map/School Rules Adventure Map.zip",
+    "original_link": "https://web.archive.org/web/20140601063855/http://mcpeuniverse.com/maps/mcpe-0-8-1-school-rules-adventure-map/"
+  },
+  {
+    "title": "xPoizon’s Theme Park",
+    "version": "0.8.1",
+    "short_description": "A Theme Park Made by xPoizon",
+    "full_description": "Park includes\n\n4 custom roller coasters: A huge wooden roller coaster, a wild mouse, a standard coaster, a flashback coaster, a merry go round, a ferris wheel, a maze, a drop tower, a shooting range, a flying planes ride, restrooms, office, and maintenance building. \n\nWater Park Includes;\n\nOriginal layout from Custom Water Park, New changing rooms, new wavepool, new slide complex, new lights, and bigger parking lot. \n\nI have included both survival and creative versions. Please give a like for all my hard work. ",
+    "date": "2026-06-25 01:04",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.8.1/xPoizon’s Theme Park/thumb_1782349438824.jpg",
+    "file": "data/0.8.1/xPoizon’s Theme Park/xPoizon’s Theme Park.zip",
+    "screenshots": [
+      "data/0.8.1/xPoizon’s Theme Park/screen_1_1782349441591.jpg",
+      "data/0.8.1/xPoizon’s Theme Park/screen_2_1782349444253.jpg"
+    ],
+    "original_link": "https://web.archive.org/web/20140421234917/http://mcpeuniverse.com/maps/xpoizon-0-8-1-theme-park/"
+  },
+  {
+    "title": "xPoizon’s Golf Course",
+    "version": "0.8.1",
+    "short_description": "This is pretty much the first mcpe full length, realistic course! It took a long time of building, then I decided I wanted to put some houses with it too!",
+    "full_description": "",
+    "date": "2026-06-25 01:13",
+    "type": "maps",
+    "author": {
+      "name": "Unix704",
+      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+    },
+    "thumbnail": "data/0.8.1/xPoizon’s Golf Course/thumb_1782350030289.jpg",
+    "file": "data/0.8.1/xPoizon’s Golf Course/xPoizon’s Golf Course.zip",
+    "screenshots": [
+      "data/0.8.1/xPoizon’s Golf Course/screen_1_1782350031817.jpg",
+      "data/0.8.1/xPoizon’s Golf Course/screen_2_1782350033250.jpg"
+    ],
+    "original_link": "https://web.archive.org/web/20140527030536/http://mcpeuniverse.com/maps/xpoizons-golf-course/"
   }
 ]
