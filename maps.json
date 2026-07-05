@@ -219,7 +219,7 @@
     "title": "Camp Puzzlemaca",
     "version": "0.8.1",
     "short_description": "Welcome everyone, East here, and welcome to my adventure/puzzle/parkour map! The map in total took me 4 months. It’s fun and difficult and I hope you enjoy! ",
-    "full_description": "————————-Storyline————————-\n\n“Have fun loser!” your sister screamed out the window of the car, while sticking her tongue out. That’s the only happy thing you remembered from the whole week. Since you have been at this camp called Camp Fun-o, nothing fun at all has happened. It’s dreadful staying at this camp, in your opinion, because there is nothing to do.\nThe next morning, while trying to swim in the foot deep pool, a camp counselor calls you out. You have never seen this guy before and he looks suspicious. He orders you to go into your cabin and to read the note left on your bed and above the door. You, confused, go to see what it is. Entering your cabin, while realizing no one is in there, you read the note on your bed;\n\nWelcome to Camp Puzzlemaca, registration starts inside the waterfall, do not tell anyone!\n\n“Inside the waterfall?” you think to yourself, “Why there? What’s going to happen? Am I moving camps? Oh please tell me I’m moving camps!”\nYou then read the message on the bed;\n\nTo find the key, you must go and peek; in somewhere you’re not allowed!\n   \n“That’s it! The Camp Office!” you exclaim. You proudly sneak into the camp office; rapidly steal the key left on the table and start heading to the waterfall. Once reached inside the waterfall, you place the key inside the key holder. What lies behind the keyhole? Or under? Or above? This is when your new camp actually starts…\n \n————————-Rules–———————–\n1. Play on peaceful mode\n2. No breaking blocks unless told to\n3. Sleep always when there are beds\n4. Have fun!\n\n————————-Thanks–———————–\n\nThank you Rubikcubezzz for beta testing my map! Also for Serperior for inspiring me!\n\n————————-————————-——————-\n\nThat’s it for today guys! Follow me on twitter @ApolloMcpe for more! See ya!\n\n(Map Creator: East)",
+    "full_description": "(Map Creator: East)\n\n————————-Storyline————————-\n\n“Have fun loser!” your sister screamed out the window of the car, while sticking her tongue out. That’s the only happy thing you remembered from the whole week. Since you have been at this camp called Camp Fun-o, nothing fun at all has happened. It’s dreadful staying at this camp, in your opinion, because there is nothing to do.\nThe next morning, while trying to swim in the foot deep pool, a camp counselor calls you out. You have never seen this guy before and he looks suspicious. He orders you to go into your cabin and to read the note left on your bed and above the door. You, confused, go to see what it is. Entering your cabin, while realizing no one is in there, you read the note on your bed;\n\nWelcome to Camp Puzzlemaca, registration starts inside the waterfall, do not tell anyone!\n\n“Inside the waterfall?” you think to yourself, “Why there? What’s going to happen? Am I moving camps? Oh please tell me I’m moving camps!”\nYou then read the message on the bed;\n\nTo find the key, you must go and peek; in somewhere you’re not allowed!\n   \n“That’s it! The Camp Office!” you exclaim. You proudly sneak into the camp office; rapidly steal the key left on the table and start heading to the waterfall. Once reached inside the waterfall, you place the key inside the key holder. What lies behind the keyhole? Or under? Or above? This is when your new camp actually starts…\n \n————————-Rules–———————–\n1. Play on peaceful mode\n2. No breaking blocks unless told to\n3. Sleep always when there are beds\n4. Have fun!\n\n————————-Thanks–———————–\n\nThank you Rubikcubezzz for beta testing my map! Also for Serperior for inspiring me!\n\n————————-————————-——————-\n\nThat’s it for today guys! Follow me on twitter @ApolloMcpe for more! See ya!",
     "date": "2026-06-23 16:47",
     "type": "maps",
     "author": {
@@ -233,7 +233,7 @@
       "data/0.8.1/Camp Puzzlemaca/screen_1_1782233246448.jpg",
       "data/0.8.1/Camp Puzzlemaca/screen_2_1782233249212.jpg"
     ],
-    "updated_date": "2026-06-28 22:34"
+    "updated_date": "2026-07-05 03:50"
   },
   {
     "title": "Cops N’ Robbers 2.0 PE",
@@ -690,22 +690,23 @@
     "title": "The Teacher minigame",
     "version": "0.6.1",
     "short_description": "The Teacher is a minigame made by NoahCraftFTW for the pc",
-    "full_description": "The Teacher is a minigame that is very similar to\nthe minigame Cops And Robbers.\nThere will be 1 teacher and the rest of the players will be the students.\nThe goal for the students is to craft a diamond sword and\nkill the teacher or escape the school.\nThe goal for the teacher is to kill the student with the diamond sword.\nYou have to craft the diamond sword using items that\ncan be found in chests around the school.\nYou can't kill the teacher with your hands.",
+    "full_description": "(Map Creator: MCMan132)\n\nThe Teacher is a minigame that is very similar to\nthe minigame Cops And Robbers.\nThere will be 1 teacher and the rest of the players will be the students.\nThe goal for the students is to craft a diamond sword and\nkill the teacher or escape the school.\nThe goal for the teacher is to kill the student with the diamond sword.\nYou have to craft the diamond sword using items that\ncan be found in chests around the school.\nYou can't kill the teacher with your hands.",
     "date": "2026-06-24 23:09",
     "type": "maps",
     "author": {
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
-    "thumbnail": "data/0.6.1/The Teacher minigame/thumb_1782342588479.jpg",
+    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1979794-hot-topic-the-teacher-minigame-download-link",
     "file": "data/0.6.1/The Teacher minigame/The Teacher minigame.zip",
+    "thumbnail": "data/0.6.1/The Teacher minigame/thumb_1782342588479.jpg",
     "screenshots": [
       "data/0.6.1/The Teacher minigame/screen_1_1782342590352.jpg",
       "data/0.6.1/The Teacher minigame/screen_2_1782342591975.jpg",
       "data/0.6.1/The Teacher minigame/screen_3_1782342593625.jpg",
       "data/0.6.1/The Teacher minigame/screen_4_1782342595658.jpg"
     ],
-    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1979794-hot-topic-the-teacher-minigame-download-link"
+    "updated_date": "2026-07-05 03:43"
   },
   {
     "title": "Multi Run Mini Game [4 races in 1 map!]",
@@ -732,21 +733,22 @@
     "title": "Herobrines Mansion Map",
     "version": "0.6.1",
     "short_description": "PE Port of Herobrines Mansion Creative",
-    "full_description": "",
+    "full_description": "(Map Creator: BrahimL)",
     "date": "2026-06-24 23:30",
     "type": "maps",
     "author": {
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
-    "thumbnail": "data/0.6.1/Herobrines Mansion Map/thumb_1782343790294.jpg",
+    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1978425-herobrines-mansion-over-30-000-download-on-mcpe",
     "file": "data/0.6.1/Herobrines Mansion Map/Herobrines Mansion Map.zip",
+    "thumbnail": "data/0.6.1/Herobrines Mansion Map/thumb_1782343790294.jpg",
     "screenshots": [
       "data/0.6.1/Herobrines Mansion Map/screen_1_1782343792122.jpg",
       "data/0.6.1/Herobrines Mansion Map/screen_2_1782343793760.jpg",
       "data/0.6.1/Herobrines Mansion Map/screen_3_1782343795604.jpg"
     ],
-    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1978425-herobrines-mansion-over-30-000-download-on-mcpe"
+    "updated_date": "2026-07-05 03:45"
   },
   {
     "title": "Mine York City 0.6.1",
@@ -851,26 +853,27 @@
     "title": "Toy Story 2 Adventure Map 1.2",
     "version": "0.6.1",
     "short_description": "This map was originally built by PitchBlackPL. I have spent the last few weeks making it completely compatible for Minecraft Pocket.",
-    "full_description": "",
+    "full_description": "(Map Creator: MCPEPorts)",
     "date": "2026-06-25 00:21",
     "type": "maps",
     "author": {
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
-    "thumbnail": "data/0.6.1/Toy Story 2 Adventure Map 1.2/thumb_1782346904381.jpg",
+    "original_link": "http://minecraftpeworlds.blogspot.com/p/toy-story-2-mcpe.html",
     "file": "data/0.6.1/Toy Story 2 Adventure Map 1.2/Toy Story 2 Adventure Map 1.2.zip",
+    "thumbnail": "data/0.6.1/Toy Story 2 Adventure Map 1.2/thumb_1782346904381.jpg",
     "screenshots": [
       "data/0.6.1/Toy Story 2 Adventure Map 1.2/screen_1_1782346905926.jpg",
       "data/0.6.1/Toy Story 2 Adventure Map 1.2/screen_2_1782346907354.jpg",
       "data/0.6.1/Toy Story 2 Adventure Map 1.2/screen_3_1782346908992.jpg",
       "data/0.6.1/Toy Story 2 Adventure Map 1.2/screen_4_1782346910642.jpg"
     ],
-    "original_link": "http://minecraftpeworlds.blogspot.com/p/toy-story-2-mcpe.html"
+    "updated_date": "2026-07-05 03:46"
   },
   {
     "title": "Sand Scrambler By Ace",
-    "version": "0.6.1",
+    "version": "0.7.6",
     "short_description": "Burn the wood above you with flint and steel and sand will start falling, last person standing wins",
     "full_description": "(Map Creator: Ace)\n\nVideo By JackFrostMiner: https://www.youtube.com/watch?v=WCOq6O5EqFM",
     "date": "2026-06-25 00:33",
@@ -885,7 +888,7 @@
     "screenshots": [
       "data/0.6.1/Sand Scrambler By Ace/screen_1_1782347579109.jpg"
     ],
-    "updated_date": "2026-06-28 23:28"
+    "updated_date": "2026-07-05 03:48"
   },
   {
     "title": "Ollan Island PE",
