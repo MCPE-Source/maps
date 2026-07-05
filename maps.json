@@ -363,29 +363,29 @@
     "title": "Survival Island PE",
     "version": "0.5.0",
     "short_description": "Survival Island PE for 0.5.0",
-    "full_description": "(Map Creator: maces006)\n\nRules:\n1. No leaving island (no where to go anyway so, lol)\n2. No hacking in blocks of any kind (including lava, water and tnt)\n3. Post screenshots of your achievements if possible\n4. If you die at all, then you lose\n5. Have fun\n\nChallenges:\n1.Build a 2 story house with 20+ windows in it.\n2.Build 10 bookshelves.\n3.Create an underground tree farm.\n4.Create an above ground mob/animal trap.\n5.Gather 10 unused diamonds.\n6.Find the treasure of the Lost Curator.\n7.build an above ground cactus farm\n8.Discover the secret Testing Lab\n9.Fix Nether Reactor + Activate\n9.Kill 7 Zombie Pigmen\n10.Create a cobblestone generator\n11.Construct an airstrip using glowstone for light\n12.Build an aircraft\n13.Build an melon farm onboard the airship\n\nCredits:\nAshien - Creation of Survival Island\nMaces006 - Editing for Pocket Edition usage\nLegspin99 - Challenge idea\n\nVideo by Bmc Boz: https://www.youtube.com/watch?v=oEFSYo_w5OA",
+    "full_description": "(Original Map Creator: Ashien) \n\n(PE Creator: maces006)\n\nRules:\n1. No leaving island (no where to go anyway so, lol)\n2. No hacking in blocks of any kind (including lava, water and tnt)\n3. Post screenshots of your achievements if possible\n4. If you die at all, then you lose\n5. Have fun\n\nChallenges:\n1.Build a 2 story house with 20+ windows in it.\n2.Build 10 bookshelves.\n3.Create an underground tree farm.\n4.Create an above ground mob/animal trap.\n5.Gather 10 unused diamonds.\n6.Find the treasure of the Lost Curator.\n7.build an above ground cactus farm\n8.Discover the secret Testing Lab\n9.Fix Nether Reactor + Activate\n9.Kill 7 Zombie Pigmen\n10.Create a cobblestone generator\n11.Construct an airstrip using glowstone for light\n12.Build an aircraft\n13.Build an melon farm onboard the airship\n\nCredits:\nAshien - Creation of Survival Island\nMaces006 - Editing for Pocket Edition usage\nLegspin99 - Challenge idea\n\nVideo by Bmc Boz: https://www.youtube.com/watch?v=oEFSYo_w5OA",
     "date": "2026-06-24 17:22",
     "type": "maps",
     "author": {
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
+    "alt_link": "https://archive.org/download/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2012/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2012.zip/Minecraft%20Pocket%20Edition%2F2012%2F201502%2Fminecraftforum.net%2Fmcpe_maps%2Fdownloads%2Fwww.mediafire.com%2F462%2FSurvival%20Island%20%28P.E%29.zip",
+    "original_link": "https://web.archive.org/web/20141008012014/http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1974308-survival-island-pocket-edition-no-more-updates",
+    "file": "data/0.5.0/Survival Island PE/Survival Island PE.zip",
     "thumbnail": "data/0.5.0/Survival Island PE/thumb_1782765730029.jpg",
     "screenshots": [
       "data/0.5.0/Survival Island PE/screen_1_1782765731349.jpg",
       "data/0.5.0/Survival Island PE/screen_2_1782765733090.jpg",
       "data/0.5.0/Survival Island PE/screen_3_1782765734830.jpg"
     ],
-    "alt_link": "https://archive.org/download/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2012/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2012.zip/Minecraft%20Pocket%20Edition%2F2012%2F201502%2Fminecraftforum.net%2Fmcpe_maps%2Fdownloads%2Fwww.mediafire.com%2F462%2FSurvival%20Island%20%28P.E%29.zip",
-    "original_link": "https://web.archive.org/web/20141008012014/http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1974308-survival-island-pocket-edition-no-more-updates",
-    "file": "data/0.5.0/Survival Island PE/Survival Island PE.zip",
-    "updated_date": "2026-06-29 20:42"
+    "updated_date": "2026-07-05 04:00"
   },
   {
     "title": "Fallen Kingdom Mcpe",
     "version": "0.8.1",
     "short_description": "Finally you can explore, play, and reenact the parody in MC Pocket Edition!",
-    "full_description": "(Map Creator: TeamWyldcraft)",
+    "full_description": "(Original Map Creator: CaptainSparklez) \n\n(PE Creator: TeamWyldcraft)",
     "date": "2026-06-24 17:34",
     "type": "maps",
     "author": {
@@ -398,7 +398,7 @@
     "screenshots": [
       "data/0.8.1/Fallen Kingdom Mcpe/screen_1_1782322479587.jpg"
     ],
-    "updated_date": "2026-06-28 22:53"
+    "updated_date": "2026-07-05 04:02"
   },
   {
     "title": "Ant Farm Survival PE",
@@ -501,7 +501,7 @@
     "title": "The Walls PvP",
     "version": "0.4.0",
     "short_description": "The Walls PvP For Minecraft Pocket Edition",
-    "full_description": "(Map Creator: LosAngelesChepes)\n\nThe anticipated walls map for PE is out now!!!\nIt's up to 8 players(2 per team).\n\nRules:\n1.Once you spawn it will take about 1 minute to turn night,sleep in the bed so you spawn on the spawn area\nand not play again.\n2.No breaking the sand wall or the stone brick wall surrounding the pvp arena.\n3.Only one person can win.\n4.You must activate the wall destroyer after 3 days.\n5.You cannot go to other quadrants until the 3 days pass.\n6.You cannot build pass the wall.\nYou cannot build under the wall\n7You must have fun Posted Image",
+    "full_description": "(Original Map Creator: Hypixel) \n\n(PE Creator: LosAngelesChepes)\n\nThe anticipated walls map for PE is out now!!!\nIt's up to 8 players(2 per team).\n\nRules:\n1.Once you spawn it will take about 1 minute to turn night,sleep in the bed so you spawn on the spawn area\nand not play again.\n2.No breaking the sand wall or the stone brick wall surrounding the pvp arena.\n3.Only one person can win.\n4.You must activate the wall destroyer after 3 days.\n5.You cannot go to other quadrants until the 3 days pass.\n6.You cannot build pass the wall.\nYou cannot build under the wall\n7You must have fun Posted Image",
     "date": "2026-06-24 19:17",
     "type": "maps",
     "author": {
@@ -517,13 +517,13 @@
       "data/0.4.0/The Walls PvP/screen_3_1782328660085.jpg",
       "data/0.4.0/The Walls PvP/screen_4_1782328661620.jpg"
     ],
-    "updated_date": "2026-06-28 23:07"
+    "updated_date": "2026-07-05 04:09"
   },
   {
     "title": "Capture the Wool",
     "version": "0.6.1",
     "short_description": "Converted by Serperior",
-    "full_description": "(Map Creator: Serperior)\n\nWelcome to the topic that is home to a Capture the Wool map that took a while to convert to Pocket Edition! I spent weeks on this and would appreciate the support if you decided to download!",
+    "full_description": "(Original Map Creator: PeteZahHutt)\n\n(PE Creator: Serperior)\n\nWelcome to the topic that is home to a Capture the Wool map that took a while to convert to Pocket Edition! I spent weeks on this and would appreciate the support if you decided to download!",
     "date": "2026-06-24 19:24",
     "type": "maps",
     "author": {
@@ -537,7 +537,7 @@
       "data/0.6.1/Capture the Wool/screen_1_1782329069389.jpg",
       "data/0.6.1/Capture the Wool/screen_2_1782329070721.jpg"
     ],
-    "updated_date": "2026-07-05 03:27"
+    "updated_date": "2026-07-05 04:12"
   },
   {
     "title": "McDonald’s Parkour",
@@ -627,7 +627,7 @@
     "title": "Sonic The Hedgehog Minigame Sprint Parkour",
     "version": "0.6.1",
     "short_description": "FVDisco's Sonic The Hedgehog Minigame [sprint parkour] [ported from pc]",
-    "full_description": "(Map Creator: MCMan132)\n\nThis is the Sonic the Hedgehog minigame.This map was made on PC by FVDisco. I ported and edited this map.This is a If you want to play this map,you have to download the sprint mod.The objective of this map is to complete the course in the best time possible.Play in creative.If you fall,fly back to the last block you were on.",
+    "full_description": "(Original Map Creator: FVDisco) \n\n(PE Creator: MCMan132)\n\nThis is the Sonic the Hedgehog minigame.This map was made on PC by FVDisco. I ported and edited this map.This is a If you want to play this map,you have to download the sprint mod.The objective of this map is to complete the course in the best time possible.Play in creative.If you fall,fly back to the last block you were on.",
     "date": "2026-06-24 22:36",
     "type": "maps",
     "author": {
@@ -642,7 +642,7 @@
       "data/0.6.1/Sonic The Hedgehog Minigame Sprint Parkour/screen_2_1782340592112.jpg",
       "data/0.6.1/Sonic The Hedgehog Minigame Sprint Parkour/screen_3_1782340593751.jpg"
     ],
-    "updated_date": "2026-06-28 23:13"
+    "updated_date": "2026-07-05 04:14"
   },
   {
     "title": "Super Mario Bros parkour map",
@@ -690,7 +690,7 @@
     "title": "The Teacher minigame",
     "version": "0.6.1",
     "short_description": "The Teacher is a minigame made by NoahCraftFTW for the pc",
-    "full_description": "(Map Creator: MCMan132)\n\nThe Teacher is a minigame that is very similar to\nthe minigame Cops And Robbers.\nThere will be 1 teacher and the rest of the players will be the students.\nThe goal for the students is to craft a diamond sword and\nkill the teacher or escape the school.\nThe goal for the teacher is to kill the student with the diamond sword.\nYou have to craft the diamond sword using items that\ncan be found in chests around the school.\nYou can't kill the teacher with your hands.",
+    "full_description": "(Original Map Creator: NoahCraftFTW)\n\n(PE Creator: MCMan132)\n\nThe Teacher is a minigame that is very similar to\nthe minigame Cops And Robbers.\nThere will be 1 teacher and the rest of the players will be the students.\nThe goal for the students is to craft a diamond sword and\nkill the teacher or escape the school.\nThe goal for the teacher is to kill the student with the diamond sword.\nYou have to craft the diamond sword using items that\ncan be found in chests around the school.\nYou can't kill the teacher with your hands.",
     "date": "2026-06-24 23:09",
     "type": "maps",
     "author": {
@@ -706,7 +706,7 @@
       "data/0.6.1/The Teacher minigame/screen_3_1782342593625.jpg",
       "data/0.6.1/The Teacher minigame/screen_4_1782342595658.jpg"
     ],
-    "updated_date": "2026-07-05 03:43"
+    "updated_date": "2026-07-05 04:17"
   },
   {
     "title": "Multi Run Mini Game [4 races in 1 map!]",
@@ -733,7 +733,7 @@
     "title": "Herobrines Mansion Map",
     "version": "0.6.1",
     "short_description": "PE Port of Herobrines Mansion Creative",
-    "full_description": "(Map Creator: BrahimL)",
+    "full_description": "(Original Map Creator: Hypixel) \n\n(PE Creator: BrahimL)",
     "date": "2026-06-24 23:30",
     "type": "maps",
     "author": {
@@ -748,7 +748,7 @@
       "data/0.6.1/Herobrines Mansion Map/screen_2_1782343793760.jpg",
       "data/0.6.1/Herobrines Mansion Map/screen_3_1782343795604.jpg"
     ],
-    "updated_date": "2026-07-05 03:45"
+    "updated_date": "2026-07-05 04:18"
   },
   {
     "title": "Mine York City 0.6.1",
@@ -776,7 +776,7 @@
     "title": "Hogwarts Map",
     "version": "0.6.1",
     "short_description": "Welcome to the School of Witchcraft and Wizardry ",
-    "full_description": "(Map Creator: MCPEPorts)",
+    "full_description": "(Original Map Creator: khamelion81)\n\n(PE Creator: MCPEPorts)",
     "date": "2026-06-24 23:50",
     "type": "maps",
     "author": {
@@ -791,7 +791,7 @@
       "data/0.6.1/Hogwarts Map/screen_2_1782345031638.jpg",
       "data/0.6.1/Hogwarts Map/screen_3_1782345033218.jpg"
     ],
-    "updated_date": "2026-06-28 23:21"
+    "updated_date": "2026-07-05 04:20"
   },
   {
     "title": "Redstone Alternative Tutorial Map",
@@ -838,22 +838,23 @@
     "title": "SkyGrid PE Map",
     "version": "0.6.1",
     "short_description": "The awesome PC map made by SethBling is now fully compatible with Pocket Edition! Using Sethblings filter for MCEdit I made the blocks closer together and filtered out the incompatible blocks.",
-    "full_description": "",
+    "full_description": "(Original Map Creator: SethBling)\n\n(PE Creator: MCPEPorts)",
     "date": "2026-06-25 00:04",
     "type": "maps",
     "author": {
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
-    "thumbnail": "data/0.6.1/SkyGrid PE Map/thumb_1782345845778.jpg",
+    "original_link": "http://minecraftpeworlds.blogspot.com/2013/07/skygrid-pe.html",
     "file": "data/0.6.1/SkyGrid PE Map/SkyGrid PE Map.zip",
-    "original_link": "http://minecraftpeworlds.blogspot.com/2013/07/skygrid-pe.html"
+    "thumbnail": "data/0.6.1/SkyGrid PE Map/thumb_1782345845778.jpg",
+    "updated_date": "2026-07-05 04:21"
   },
   {
     "title": "Toy Story 2 Adventure Map 1.2",
     "version": "0.6.1",
     "short_description": "This map was originally built by PitchBlackPL. I have spent the last few weeks making it completely compatible for Minecraft Pocket.",
-    "full_description": "(Map Creator: MCPEPorts)",
+    "full_description": "(Original Map Creator: PitchBlackPL)\n\n(PE Creator: MCPEPorts)",
     "date": "2026-06-25 00:21",
     "type": "maps",
     "author": {
@@ -869,7 +870,7 @@
       "data/0.6.1/Toy Story 2 Adventure Map 1.2/screen_3_1782346908992.jpg",
       "data/0.6.1/Toy Story 2 Adventure Map 1.2/screen_4_1782346910642.jpg"
     ],
-    "updated_date": "2026-07-05 03:46"
+    "updated_date": "2026-07-05 04:23"
   },
   {
     "title": "Sand Scrambler By Ace",
@@ -894,20 +895,21 @@
     "title": "Ollan Island PE",
     "version": "0.8.1",
     "short_description": "Ollan Island is a mp created by Enmah and ported to pocket edition by me, It features a roller coaster casino on the beachfront and a water slide, I hope you enjoy.",
-    "full_description": "",
+    "full_description": "(Original Map Creator: Enmah)\n\n(PE Creator: spl1tr)",
     "date": "2026-06-25 00:46",
     "type": "maps",
     "author": {
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
-    "thumbnail": "data/0.8.1/Ollan Island PE/thumb_1782348351529.jpg",
+    "original_link": "https://web.archive.org/web/20131219070828/http://mcpeuniverse.com/maps/ollan-island-pc-port/",
     "file": "data/0.8.1/Ollan Island PE/Ollan Island PE.zip",
+    "thumbnail": "data/0.8.1/Ollan Island PE/thumb_1782348351529.jpg",
     "screenshots": [
       "data/0.8.1/Ollan Island PE/screen_1_1782348354305.jpg",
       "data/0.8.1/Ollan Island PE/screen_2_1782348357773.jpg"
     ],
-    "original_link": "https://web.archive.org/web/20131219070828/http://mcpeuniverse.com/maps/ollan-island-pc-port/"
+    "updated_date": "2026-07-05 04:25"
   },
   {
     "title": "School Rules Adventure Map",
@@ -1072,41 +1074,43 @@
     "title": "Skyblock Warriors PvP",
     "version": "0.7.1",
     "short_description": "Original PC Map By SwipeShotTeam: https://www.planetminecraft.com/project/skyblock-warriors---4-skyblocks-4-teams-1-winner/",
-    "full_description": "(Map Creator: Skeletons_Gaming)",
+    "full_description": "(Original Map Creator: SwipeShotTeam)\n\n(PE Creator: Skeletons_Gaming)",
     "date": "2026-06-29 20:58",
     "type": "maps",
     "author": {
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
-    "thumbnail": "data/0.7.1/Skyblock Warriors PvP/thumb_1782766701006.jpg",
+    "alt_link": "https://www.mediafire.com/download/8tnvafiq3eh2eyl/SKYBLOCK_WARRIOR.zip",
     "file": "data/0.7.1/Skyblock Warriors PvP/Skyblock Warriors PvP.zip",
+    "thumbnail": "data/0.7.1/Skyblock Warriors PvP/thumb_1782766701006.jpg",
     "screenshots": [
       "data/0.7.1/Skyblock Warriors PvP/screen_1_1782766702330.jpg",
       "data/0.7.1/Skyblock Warriors PvP/screen_2_1782766704069.jpg",
       "data/0.7.1/Skyblock Warriors PvP/screen_3_1782766705399.jpg",
       "data/0.7.1/Skyblock Warriors PvP/screen_4_1782766706833.jpg"
     ],
-    "alt_link": "https://www.mediafire.com/download/8tnvafiq3eh2eyl/SKYBLOCK_WARRIOR.zip"
+    "updated_date": "2026-07-05 04:27"
   },
   {
     "title": "Temple of Notch Pocket Edition",
     "version": "0.6.1",
     "short_description": " Fully working Temple of Notch for Pocket Edition. Based on the PC version by Disco",
-    "full_description": "(Map Creator: MCPEPorts)",
+    "full_description": "(Original Map Creator: FVDisco)\n\n(PE Creator: MCPEPorts)",
     "date": "2026-06-29 21:30",
     "type": "maps",
     "author": {
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
-    "thumbnail": "data/0.6.1/Temple of Notch Pocket Edition/thumb_1782768633654.jpg",
+    "original_link": "http://minecraftpeworlds.blogspot.com/p/temple-of-notch.html",
     "file": "data/0.6.1/Temple of Notch Pocket Edition/Temple of Notch Pocket Edition.zip",
+    "thumbnail": "data/0.6.1/Temple of Notch Pocket Edition/thumb_1782768633654.jpg",
     "screenshots": [
       "data/0.6.1/Temple of Notch Pocket Edition/screen_1_1782768634773.jpg",
       "data/0.6.1/Temple of Notch Pocket Edition/screen_2_1782768637129.jpg"
     ],
-    "original_link": "http://minecraftpeworlds.blogspot.com/p/temple-of-notch.html"
+    "updated_date": "2026-07-05 04:29"
   },
   {
     "title": "PaintBall Red vs Blue",
@@ -1226,7 +1230,7 @@
     "title": "Mini Golf PE",
     "version": "0.4.0",
     "short_description": "Original PC map \"Yog-Golf\" ported to pocket edition",
-    "full_description": "(Map Creator: MCPEPorts)\n\nHOW TO PLAY\n1. Get snowballs from the chests (tons at the beginning and by every hole)\n2. Stand on the obsidian in front of the hole\n3. Hold on the icon with the snowball to throw it\n4. watch it slide :D\n5. pick it up and do it again from that point\n6. Get it in the hole. (duh)\n\nNOTE: Its best if you only take 1 snowball from the chest at a time because if you have more than 1 in the item slot it will throw the whole stack.",
+    "full_description": "(Original PC Map Creator: o0toecutter0o)\n\n(PE Creator: MCPEPorts)\n\nHOW TO PLAY\n1. Get snowballs from the chests (tons at the beginning and by every hole)\n2. Stand on the obsidian in front of the hole\n3. Hold on the icon with the snowball to throw it\n4. watch it slide :D\n5. pick it up and do it again from that point\n6. Get it in the hole. (duh)\n\nNOTE: Its best if you only take 1 snowball from the chest at a time because if you have more than 1 in the item slot it will throw the whole stack.",
     "date": "2026-07-04 22:53",
     "type": "maps",
     "author": {
@@ -1242,6 +1246,6 @@
       "data/0.5.0/Mini Golf PE/screen_3_1783205598576.jpg",
       "data/0.5.0/Mini Golf PE/screen_4_1783205599807.jpg"
     ],
-    "updated_date": "2026-07-04 23:28"
+    "updated_date": "2026-07-05 04:31"
   }
 ]
