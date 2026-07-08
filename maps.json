@@ -1212,22 +1212,22 @@
     "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1980297-extreme-spleef-arena-10-levels-of-pure-spleef"
   },
   {
-    "title": "xPoizon’s Theme Park",
+    "title": "xPoizon’s Golf Course",
     "version": "0.8.1",
-    "short_description": "A Theme Park Made by xPoizon",
-    "full_description": "(Map Creator: xPoizon)\n\nPark includes\n\n4 custom roller coasters: A huge wooden roller coaster, a wild mouse, a standard coaster, a flashback coaster, a merry go round, a ferris wheel, a maze, a drop tower, a shooting range, a flying planes ride, restrooms, office, and maintenance building. \n\nWater Park Includes;\n\nOriginal layout from Custom Water Park, New changing rooms, new wavepool, new slide complex, new lights, and bigger parking lot. \n\nI have included both survival and creative versions. Please give a like for all my hard work.",
-    "date": "2026-07-08 16:08",
+    "short_description": "This is pretty much the first mcpe full length, realistic course! It took a long time of building, then I decided I wanted to put some houses with it too!",
+    "full_description": "(Map Creator: xPoizon)",
+    "date": "2026-07-08 16:19",
     "type": "maps",
     "author": {
       "name": "Unix704",
       "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
     },
-    "thumbnail": "data/0.8.1/xPoizon’s Theme Park/thumb_1783526897315.jpg",
-    "file": "data/0.8.1/xPoizon’s Theme Park/xPoizon’s Theme Park.zip",
+    "thumbnail": "data/0.8.1/xPoizon’s Golf Course/thumb_1783527590579.jpg",
+    "file": "data/0.8.1/xPoizon’s Golf Course/xPoizon’s Golf Course.zip",
     "screenshots": [
-      "data/0.8.1/xPoizon’s Theme Park/screen_1_1783526899777.jpg",
-      "data/0.8.1/xPoizon’s Theme Park/screen_2_1783526902132.jpg"
+      "data/0.8.1/xPoizon’s Golf Course/screen_1_1783527592311.jpg",
+      "data/0.8.1/xPoizon’s Golf Course/screen_2_1783527593845.jpg"
     ],
-    "original_link": "https://web.archive.org/web/20140421234917/http://mcpeuniverse.com/maps/xpoizon-0-8-1-theme-park/"
+    "original_link": "https://web.archive.org/web/20140527030536/http://mcpeuniverse.com/maps/xpoizons-golf-course/"
   }
 ]
