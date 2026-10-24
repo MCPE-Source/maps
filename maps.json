@@ -4,49 +4,49 @@
     "version": "0.5.0",
     "short_description": "Big city map for Minecraft PE 0.5.0+",
     "full_description": "Big city map for Minecraft PE 0.5.0+",
-    "thumbnail": "data/0.5.0/CityCraft/thumb.jpg",
-    "file": "data/0.5.0/CityCraft/CityCraft.zip",
+    "thumbnail": "data\/0.5.0\/CityCraft\/thumb.jpg",
+    "file": "data\/0.5.0\/CityCraft\/CityCraft.zip",
     "date": "2025-12-11 19:25",
     "type": "maps",
-    "original_link": "https://4pda.to/forum/index.php?showtopic=626139&st=100",
+    "original_link": "https:\/\/4pda.to\/forum\/index.php?showtopic=626139&st=100",
     "author": {
       "name": "eqozqq",
-      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/112166693?v=4"
     },
     "screenshots": [
-      "data/0.5.0/CityCraft/screen_1.jpg",
-      "data/0.5.0/CityCraft/screen_2.jpg"
+      "data\/0.5.0\/CityCraft\/screen_1.jpg",
+      "data\/0.5.0\/CityCraft\/screen_2.jpg"
     ]
   },
   {
     "title": "calculator 1.0",
     "version": "0.8.1",
     "short_description": "Рабочий калькулятор",
-    "thumbnail": "data/0.8.1/calculator 1.0/thumb_1765532791108.jpg",
-    "file": "data/0.8.1/calculator 1.0/calculator 1.0.zip",
+    "thumbnail": "data\/0.8.1\/calculator 1.0\/thumb_1765532791108.jpg",
+    "file": "data\/0.8.1\/calculator 1.0\/calculator 1.0.zip",
     "date": "2025-12-12 11:46",
     "type": "maps",
     "author": {
       "name": "preaton1337",
-      "avatar": "https://avatars.githubusercontent.com/u/105851196?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/105851196?v=4"
     }
   },
   {
     "title": "Let's play by preaton",
     "version": "0.8.1",
     "short_description": "Survival map from 2023 by preaton",
-    "thumbnail": "data/0.8.1/Let's play by preaton/thumb_1765534621614.jpg",
-    "file": "data/0.8.1/Let's play by preaton/Let's play by preaton.zip",
+    "thumbnail": "data\/0.8.1\/Let's play by preaton\/thumb_1765534621614.jpg",
+    "file": "data\/0.8.1\/Let's play by preaton\/Let's play by preaton.zip",
     "date": "2025-12-12 12:18",
     "type": "maps",
     "author": {
       "name": "preaton1337",
-      "avatar": "https://avatars.githubusercontent.com/u/105851196?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/105851196?v=4"
     },
     "screenshots": [
-      "data/0.8.1/Let's play by preaton/screen_1_1765534651023.jpg",
-      "data/0.8.1/Let's play by preaton/screen_2_1765534663783.jpg",
-      "data/0.8.1/Let's play by preaton/screen_3_1765534679937.jpg"
+      "data\/0.8.1\/Let's play by preaton\/screen_1_1765534651023.jpg",
+      "data\/0.8.1\/Let's play by preaton\/screen_2_1765534663783.jpg",
+      "data\/0.8.1\/Let's play by preaton\/screen_3_1765534679937.jpg"
     ]
   },
   {
@@ -54,14 +54,14 @@
     "version": "0.8.1",
     "short_description": "Skyblock in minecraft pe alpha 0.8.1 !",
     "full_description": "How to add skyblock map in minecraft pe\n\n1. Extract the ZIP file and copy the Skyblock file.\n\n2. Open your file manager and scroll until you find the \"games\" folder, then open it.\n\n3. Open the \"com.mojang\" folder.\n\n4. Find the \"minecraftWorlds\" folder and paste the Skyblock folder inside it.\n\n5. Done — your map should now appear in the game.",
-    "thumbnail": "data/0.8.1/Skyblock 0.8.1/thumb_1771762928066.jpg",
-    "file": "data/0.8.1/Skyblock 0.8.1/Skyblock 0.8.1.zip",
+    "thumbnail": "data\/0.8.1\/Skyblock 0.8.1\/thumb_1771762928066.jpg",
+    "file": "data\/0.8.1\/Skyblock 0.8.1\/Skyblock 0.8.1.zip",
     "date": "2026-02-22 15:22",
     "type": "maps",
-    "alt_link": "https://www.mediafire.com/file/jj8db520kpgnf7u/Skyblock.zip/file",
+    "alt_link": "https:\/\/www.mediafire.com\/file\/jj8db520kpgnf7u\/Skyblock.zip\/file",
     "author": {
       "name": "IamRealCaster",
-      "avatar": "https://avatars.githubusercontent.com/u/89154310?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/89154310?v=4"
     }
   },
   {
@@ -69,14 +69,14 @@
     "version": "0.8.1",
     "short_description": "this map was made by me in 2025",
     "full_description": "there will be updates soon",
-    "thumbnail": "data/0.8.1/my old city/thumb_1781760221413.jpg",
-    "file": "data/0.8.1/my old city/my old city.zip",
+    "thumbnail": "data\/0.8.1\/my old city\/thumb_1781760221413.jpg",
+    "file": "data\/0.8.1\/my old city\/my old city.zip",
     "date": "2026-06-18 11:23",
     "type": "maps",
-    "alt_link": "https://drive.google.com/file/d/1IOqUQAR4MZnHd6XQfDaIZ-LDO6JII9Nz/view?usp=drive_link",
+    "alt_link": "https:\/\/drive.google.com\/file\/d\/1IOqUQAR4MZnHd6XQfDaIZ-LDO6JII9Nz\/view?usp=drive_link",
     "author": {
       "name": "r0blox-1",
-      "avatar": "https://avatars.githubusercontent.com/u/294706971?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/294706971?v=4"
     }
   },
   {
@@ -84,18 +84,18 @@
     "version": "0.8.1",
     "short_description": "Minecraft map ",
     "full_description": "This is a recreation of the game Super Mario 64. Not everything from the game is on this map but there is still a massive amount of detail. Any Mario fan should definitely have a look at this map.",
-    "thumbnail": "data/0.8.1/Super Mario 64/thumb_1781843230578.jpg",
-    "file": "data/0.8.1/Super Mario 64/Super Mario 64.zip",
+    "thumbnail": "data\/0.8.1\/Super Mario 64\/thumb_1781843230578.jpg",
+    "file": "data\/0.8.1\/Super Mario 64\/Super Mario 64.zip",
     "date": "2026-06-19 10:27",
     "type": "maps",
-    "alt_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/557/",
+    "alt_link": "http:\/\/www.nostalgiaforum.rf.gd\/index.php?threads\/557\/",
     "author": {
       "name": "r0blox-1",
-      "avatar": "https://avatars.githubusercontent.com/u/294706971?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/294706971?v=4"
     },
     "screenshots": [
-      "data/0.8.1/Super Mario 64/screen_1_1781843235564.jpg",
-      "data/0.8.1/Super Mario 64/screen_2_1781843240792.jpg"
+      "data\/0.8.1\/Super Mario 64\/screen_1_1781843235564.jpg",
+      "data\/0.8.1\/Super Mario 64\/screen_2_1781843240792.jpg"
     ]
   },
   {
@@ -103,18 +103,18 @@
     "version": "0.8.1, 0.7.0, 0.6.0, 0.5.0",
     "short_description": "Map with a village",
     "full_description": "Map with a village",
-    "thumbnail": "data/0.8.1/Village/thumb_1781787071048.jpg",
-    "file": "data/0.8.1/Village/Village.zip",
+    "thumbnail": "data\/0.8.1\/Village\/thumb_1781787071048.jpg",
+    "file": "data\/0.8.1\/Village\/Village.zip",
     "date": "2026-06-18 15:51",
     "type": "maps",
-    "alt_link": "http://www.nostalgiaforum.rf.gd/index.php?attachments/1328/",
-    "license": "http://www.nostalgiaforum.rf.gd/index.php?threads/504/",
+    "alt_link": "http:\/\/www.nostalgiaforum.rf.gd\/index.php?attachments\/1328\/",
+    "license": "http:\/\/www.nostalgiaforum.rf.gd\/index.php?threads\/504\/",
     "author": {
       "name": "eqozqq",
-      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/112166693?v=4"
     },
     "screenshots": [
-      "data/0.8.1/Village/screen_1_1781787073756.jpg"
+      "data\/0.8.1\/Village\/screen_1_1781787073756.jpg"
     ]
   },
   {
@@ -126,17 +126,17 @@
     "type": "maps",
     "author": {
       "name": "eqozqq",
-      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/112166693?v=4"
     },
-    "thumbnail": "data/0.8.1/GTA SA/thumb_1781793866475.jpg",
-    "file": "data/0.8.1/GTA SA/GTA SA.zip",
+    "thumbnail": "data\/0.8.1\/GTA SA\/thumb_1781793866475.jpg",
+    "file": "data\/0.8.1\/GTA SA\/GTA SA.zip",
     "screenshots": [
-      "data/0.8.1/GTA SA/screen_1_1781793867731.jpg",
-      "data/0.8.1/GTA SA/screen_2_1781793868794.jpg",
-      "data/0.8.1/GTA SA/screen_3_1781793869906.jpg"
+      "data\/0.8.1\/GTA SA\/screen_1_1781793867731.jpg",
+      "data\/0.8.1\/GTA SA\/screen_2_1781793868794.jpg",
+      "data\/0.8.1\/GTA SA\/screen_3_1781793869906.jpg"
     ],
-    "alt_link": "http://www.nostalgiaforum.rf.gd/index.php?attachments/276/",
-    "original_link": "https://for-minecraft.com/maps-for-minecraft-pocket-edition/371-gta-sa-map-for-minecraft-pe-081.html"
+    "alt_link": "http:\/\/www.nostalgiaforum.rf.gd\/index.php?attachments\/276\/",
+    "original_link": "https:\/\/for-minecraft.com\/maps-for-minecraft-pocket-edition\/371-gta-sa-map-for-minecraft-pe-081.html"
   },
   {
     "title": "Aether World",
@@ -147,17 +147,17 @@
     "type": "maps",
     "author": {
       "name": "eqozqq",
-      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/112166693?v=4"
     },
-    "thumbnail": "data/0.8.1/Aether World/thumb_1781794128835.jpg",
-    "file": "data/0.8.1/Aether World/Aether World.zip",
+    "thumbnail": "data\/0.8.1\/Aether World\/thumb_1781794128835.jpg",
+    "file": "data\/0.8.1\/Aether World\/Aether World.zip",
     "screenshots": [
-      "data/0.8.1/Aether World/screen_1_1781794130240.jpg",
-      "data/0.8.1/Aether World/screen_2_1781794131500.jpg",
-      "data/0.8.1/Aether World/screen_3_1781794132843.jpg"
+      "data\/0.8.1\/Aether World\/screen_1_1781794130240.jpg",
+      "data\/0.8.1\/Aether World\/screen_2_1781794131500.jpg",
+      "data\/0.8.1\/Aether World\/screen_3_1781794132843.jpg"
     ],
-    "alt_link": "https://www.planetminecraft.com/project/aether-world-mcpe-081/download/worldmap/",
-    "original_link": "https://www.planetminecraft.com/project/aether-world-mcpe-081/"
+    "alt_link": "https:\/\/www.planetminecraft.com\/project\/aether-world-mcpe-081\/download\/worldmap\/",
+    "original_link": "https:\/\/www.planetminecraft.com\/project\/aether-world-mcpe-081\/"
   },
   {
     "title": "VanillaPE (server) World 1",
@@ -168,15 +168,15 @@
     "type": "maps",
     "author": {
       "name": "Sliver4649",
-      "avatar": "https://avatars.githubusercontent.com/u/81817514?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/81817514?v=4"
     },
-    "thumbnail": "data/0.8.1/VanillaPE (server) World 1/thumb_1782210484121.jpg",
-    "file": "data/0.8.1/VanillaPE (server) World 1/VanillaPE (server) World 1.zip",
+    "thumbnail": "data\/0.8.1\/VanillaPE (server) World 1\/thumb_1782210484121.jpg",
+    "file": "data\/0.8.1\/VanillaPE (server) World 1\/VanillaPE (server) World 1.zip",
     "screenshots": [
-      "data/0.8.1/VanillaPE (server) World 1/screen_1_1782210485921.jpg",
-      "data/0.8.1/VanillaPE (server) World 1/screen_2_1782210487600.jpg",
-      "data/0.8.1/VanillaPE (server) World 1/screen_3_1782210489309.jpg",
-      "data/0.8.1/VanillaPE (server) World 1/screen_4_1782210490838.jpg"
+      "data\/0.8.1\/VanillaPE (server) World 1\/screen_1_1782210485921.jpg",
+      "data\/0.8.1\/VanillaPE (server) World 1\/screen_2_1782210487600.jpg",
+      "data\/0.8.1\/VanillaPE (server) World 1\/screen_3_1782210489309.jpg",
+      "data\/0.8.1\/VanillaPE (server) World 1\/screen_4_1782210490838.jpg"
     ]
   },
   {
@@ -188,14 +188,14 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "https://web.archive.org/web/20141027041750/http://mcpeuniverse.com/maps/archery-adventure/",
-    "file": "data/0.8.1/Archery Adventure/Archery Adventure.zip",
-    "thumbnail": "data/0.8.1/Archery Adventure/thumb_1782232097499.jpg",
+    "original_link": "https:\/\/web.archive.org\/web\/20141027041750\/http:\/\/mcpeuniverse.com\/maps\/archery-adventure\/",
+    "file": "data\/0.8.1\/Archery Adventure\/Archery Adventure.zip",
+    "thumbnail": "data\/0.8.1\/Archery Adventure\/thumb_1782232097499.jpg",
     "screenshots": [
-      "data/0.8.1/Archery Adventure/screen_1_1782232100050.jpg",
-      "data/0.8.1/Archery Adventure/screen_2_1782232103020.jpg"
+      "data\/0.8.1\/Archery Adventure\/screen_1_1782232100050.jpg",
+      "data\/0.8.1\/Archery Adventure\/screen_2_1782232103020.jpg"
     ],
     "updated_date": "2026-06-28 22:39"
   },
@@ -208,29 +208,29 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "https://web.archive.org/web/20140701162114/http://mcpeuniverse.com/maps/mcpe-achery-skills-map-with-12-hard-and-easy-levels/",
-    "file": "data/0.8.1/Archery skills map/Archery skills map.zip",
-    "thumbnail": "data/0.8.1/Archery skills map/thumb_1782232619033.jpg",
+    "original_link": "https:\/\/web.archive.org\/web\/20140701162114\/http:\/\/mcpeuniverse.com\/maps\/mcpe-achery-skills-map-with-12-hard-and-easy-levels\/",
+    "file": "data\/0.8.1\/Archery skills map\/Archery skills map.zip",
+    "thumbnail": "data\/0.8.1\/Archery skills map\/thumb_1782232619033.jpg",
     "updated_date": "2026-06-28 22:31"
   },
   {
     "title": "Cops N’ Robbers 2.0 PE",
     "version": "0.8.1",
     "short_description": "Hello and welcome to Cops N’ Robbers 2.0 by the EliteBuilds Team! This is an EXACT  port of the PC map full of new 0.8.0 features. Play as prisoners trying to escape a prison full of secrets while following the Warden’s strict orders! We all at Elite Builds hope you enjoy the map!",
-    "full_description": "(Original PC Map Creator: PodCrash)\n\n(PE Creator: EliteBuilds)\n\nNote: This is the original and official Cops N’ Robbers Map played and used by famous Youtubers such as JackFrostMiner, AceCraftGaming, Nexypl, and MrMooPig!\n\nFeatures:\n\n- Redstone Alternative\n\n- Full features of the original PC Map\n\n- High amounts of detail optimized for 0.8.0\n\n- A nice, genuine PC feel\n\nFollow Us  On Twitter! @Elite_Builds\n\nThanks to the PodCrash team for giving us permission to port and use the map!\n\nhttps://twitter.com/podcrashjord/status/415070201235771392",
+    "full_description": "(Original PC Map Creator: PodCrash)\n\n(PE Creator: EliteBuilds)\n\nNote: This is the original and official Cops N’ Robbers Map played and used by famous Youtubers such as JackFrostMiner, AceCraftGaming, Nexypl, and MrMooPig!\n\nFeatures:\n\n- Redstone Alternative\n\n- Full features of the original PC Map\n\n- High amounts of detail optimized for 0.8.0\n\n- A nice, genuine PC feel\n\nFollow Us  On Twitter! @Elite_Builds\n\nThanks to the PodCrash team for giving us permission to port and use the map!\n\nhttps:\/\/twitter.com\/podcrashjord\/status\/415070201235771392",
     "date": "2026-06-23 16:57",
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "https://web.archive.org/web/20140318160910/http://mcpeuniverse.com/maps/0-8-0-official-cops-n-robbers-2-0-for-mcpe-pc-port-by-elitebuilds-played-by-jackfrostminer-acecraft-friends/",
-    "file": "data/0.8.1/Cops N’ Robbers 2.0 PE/Cops N’ Robbers 2.0 PE.zip",
-    "thumbnail": "data/0.8.1/Cops N’ Robbers 2.0 PE/thumb_1782233847366.jpg",
+    "original_link": "https:\/\/web.archive.org\/web\/20140318160910\/http:\/\/mcpeuniverse.com\/maps\/0-8-0-official-cops-n-robbers-2-0-for-mcpe-pc-port-by-elitebuilds-played-by-jackfrostminer-acecraft-friends\/",
+    "file": "data\/0.8.1\/Cops N’ Robbers 2.0 PE\/Cops N’ Robbers 2.0 PE.zip",
+    "thumbnail": "data\/0.8.1\/Cops N’ Robbers 2.0 PE\/thumb_1782233847366.jpg",
     "screenshots": [
-      "data/0.8.1/Cops N’ Robbers 2.0 PE/screen_1_1782233849702.jpg"
+      "data\/0.8.1\/Cops N’ Robbers 2.0 PE\/screen_1_1782233849702.jpg"
     ],
     "updated_date": "2026-07-05 16:52"
   },
@@ -243,15 +243,15 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "alt_link": "https://archive.org/download/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2011_and_Orphan_Resources/Minecraft%20Archive%20Project%20-%20Minecraft%20Pocket%20Edition%20-%202011%20and%20Orphan%20Resources.zip/Minecraft%20Pocket%20Edition%2FOrphan%20resources%2F201502%2Fminecraftforum.net%2Fmcpe_maps%2Fdownloads%2Fwww.dropbox.com%2F041%2FDungeon-Craft%200.8.0.zip",
-    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1977884-dungeon-craft-5-year-anniversary-updated-for-mcpe",
-    "file": "data/0.8.1/Dungeon-Craft/Dungeon-Craft.zip",
-    "thumbnail": "data/0.8.1/Dungeon-Craft/thumb_1782243342219.jpg",
+    "alt_link": "https:\/\/archive.org\/download\/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2011_and_Orphan_Resources\/Minecraft%20Archive%20Project%20-%20Minecraft%20Pocket%20Edition%20-%202011%20and%20Orphan%20Resources.zip\/Minecraft%20Pocket%20Edition%2FOrphan%20resources%2F201502%2Fminecraftforum.net%2Fmcpe_maps%2Fdownloads%2Fwww.dropbox.com%2F041%2FDungeon-Craft%200.8.0.zip",
+    "original_link": "https:\/\/www.minecraftforum.net\/forums\/minecraft-pocket-edition\/mcpe-maps\/1977884-dungeon-craft-5-year-anniversary-updated-for-mcpe",
+    "file": "data\/0.8.1\/Dungeon-Craft\/Dungeon-Craft.zip",
+    "thumbnail": "data\/0.8.1\/Dungeon-Craft\/thumb_1782243342219.jpg",
     "screenshots": [
-      "data/0.8.1/Dungeon-Craft/screen_1_1782243343545.jpg",
-      "data/0.8.1/Dungeon-Craft/screen_2_1782243344978.jpg"
+      "data\/0.8.1\/Dungeon-Craft\/screen_1_1782243343545.jpg",
+      "data\/0.8.1\/Dungeon-Craft\/screen_2_1782243344978.jpg"
     ],
     "updated_date": "2026-06-28 22:43"
   },
@@ -264,17 +264,17 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "alt_link": "https://archive.org/download/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2011_and_Orphan_Resources/Minecraft%20Archive%20Project%20-%20Minecraft%20Pocket%20Edition%20-%202011%20and%20Orphan%20Resources.zip/Minecraft%20Pocket%20Edition%2FOrphan%20resources%2F201502%2Fminecraftforum.net%2Fmcpe_maps%2Fdownloads%2Fwww.dropbox.com%2F84a%2FDark%20Realm%200.8.0.zip",
-    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1979942-dark-realm-sequel-to-dungeon-craft-updated-for",
-    "file": "data/0.8.1/Dark Realm 0.8.0/Dark Realm 0.8.0.zip",
-    "thumbnail": "data/0.8.1/Dark Realm 0.8.0/thumb_1782247322208.jpg",
+    "alt_link": "https:\/\/archive.org\/download\/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2011_and_Orphan_Resources\/Minecraft%20Archive%20Project%20-%20Minecraft%20Pocket%20Edition%20-%202011%20and%20Orphan%20Resources.zip\/Minecraft%20Pocket%20Edition%2FOrphan%20resources%2F201502%2Fminecraftforum.net%2Fmcpe_maps%2Fdownloads%2Fwww.dropbox.com%2F84a%2FDark%20Realm%200.8.0.zip",
+    "original_link": "https:\/\/www.minecraftforum.net\/forums\/minecraft-pocket-edition\/mcpe-maps\/1979942-dark-realm-sequel-to-dungeon-craft-updated-for",
+    "file": "data\/0.8.1\/Dark Realm 0.8.0\/Dark Realm 0.8.0.zip",
+    "thumbnail": "data\/0.8.1\/Dark Realm 0.8.0\/thumb_1782247322208.jpg",
     "screenshots": [
-      "data/0.8.1/Dark Realm 0.8.0/screen_1_1782247323821.jpg",
-      "data/0.8.1/Dark Realm 0.8.0/screen_2_1782247325460.jpg",
-      "data/0.8.1/Dark Realm 0.8.0/screen_3_1782247326998.jpg",
-      "data/0.8.1/Dark Realm 0.8.0/screen_4_1782247328534.jpg"
+      "data\/0.8.1\/Dark Realm 0.8.0\/screen_1_1782247323821.jpg",
+      "data\/0.8.1\/Dark Realm 0.8.0\/screen_2_1782247325460.jpg",
+      "data\/0.8.1\/Dark Realm 0.8.0\/screen_3_1782247326998.jpg",
+      "data\/0.8.1\/Dark Realm 0.8.0\/screen_4_1782247328534.jpg"
     ],
     "updated_date": "2026-07-05 03:26"
   },
@@ -287,17 +287,17 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "file": "data/0.8.1/Dimension-Door/Dimension-Door.zip",
-    "alt_link": "https://www.mediafire.com/download/j8k2tutty525nsz/Dimension-Door.zip",
-    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1981720-dimension-door-prequel-to-dungeon-craft-updated",
-    "thumbnail": "data/0.7.3/Dimension-Door/thumb_1782272547624.jpg",
+    "file": "data\/0.8.1\/Dimension-Door\/Dimension-Door.zip",
+    "alt_link": "https:\/\/www.mediafire.com\/download\/j8k2tutty525nsz\/Dimension-Door.zip",
+    "original_link": "https:\/\/www.minecraftforum.net\/forums\/minecraft-pocket-edition\/mcpe-maps\/1981720-dimension-door-prequel-to-dungeon-craft-updated",
+    "thumbnail": "data\/0.7.3\/Dimension-Door\/thumb_1782272547624.jpg",
     "screenshots": [
-      "data/0.7.3/Dimension-Door/screen_1_1782272549361.jpg",
-      "data/0.7.3/Dimension-Door/screen_2_1782272551309.jpg",
-      "data/0.7.3/Dimension-Door/screen_3_1782272553458.jpg",
-      "data/0.7.3/Dimension-Door/screen_4_1782272555507.jpg"
+      "data\/0.7.3\/Dimension-Door\/screen_1_1782272549361.jpg",
+      "data\/0.7.3\/Dimension-Door\/screen_2_1782272551309.jpg",
+      "data\/0.7.3\/Dimension-Door\/screen_3_1782272553458.jpg",
+      "data\/0.7.3\/Dimension-Door\/screen_4_1782272555507.jpg"
     ],
     "updated_date": "2026-07-01 02:27"
   },
@@ -310,16 +310,16 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "thumbnail": "data/0.8.1/Dungeon-Craft: TacoTony's Escape Part 1/thumb_1782275106748.jpg",
-    "file": "data/0.8.1/Dungeon-Craft: TacoTony's Escape Part 1/Dungeon-Craft: TacoTony's Escape Part 1.zip",
+    "thumbnail": "data\/0.8.1\/Dungeon-Craft: TacoTony's Escape Part 1\/thumb_1782275106748.jpg",
+    "file": "data\/0.8.1\/Dungeon-Craft: TacoTony's Escape Part 1\/Dungeon-Craft: TacoTony's Escape Part 1.zip",
     "screenshots": [
-      "data/0.8.1/Dungeon-Craft: TacoTony's Escape Part 1/screen_1_1782275108809.jpg",
-      "data/0.8.1/Dungeon-Craft: TacoTony's Escape Part 1/screen_2_1782275110854.jpg",
-      "data/0.8.1/Dungeon-Craft: TacoTony's Escape Part 1/screen_3_1782275112287.jpg"
+      "data\/0.8.1\/Dungeon-Craft: TacoTony's Escape Part 1\/screen_1_1782275108809.jpg",
+      "data\/0.8.1\/Dungeon-Craft: TacoTony's Escape Part 1\/screen_2_1782275110854.jpg",
+      "data\/0.8.1\/Dungeon-Craft: TacoTony's Escape Part 1\/screen_3_1782275112287.jpg"
     ],
-    "original_link": "https://web.archive.org/web/20170822232655/http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/2106801-dungeon-craft-tacotonys-escape-part-1-2-out-now"
+    "original_link": "https:\/\/web.archive.org\/web\/20170822232655\/http:\/\/www.minecraftforum.net\/forums\/minecraft-pocket-edition\/mcpe-maps\/2106801-dungeon-craft-tacotonys-escape-part-1-2-out-now"
   },
   {
     "title": "Dungeon-Craft: TacoTony's Escape Part 2",
@@ -330,34 +330,34 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "thumbnail": "data/0.8.1/Dungeon-Craft: TacoTony's Escape Part 2/thumb_1782275734598.jpg",
-    "file": "data/0.8.1/Dungeon-Craft: TacoTony's Escape Part 2/Dungeon-Craft: TacoTony's Escape Part 2.zip",
+    "thumbnail": "data\/0.8.1\/Dungeon-Craft: TacoTony's Escape Part 2\/thumb_1782275734598.jpg",
+    "file": "data\/0.8.1\/Dungeon-Craft: TacoTony's Escape Part 2\/Dungeon-Craft: TacoTony's Escape Part 2.zip",
     "screenshots": [
-      "data/0.8.1/Dungeon-Craft: TacoTony's Escape Part 2/screen_1_1782275738271.jpg"
+      "data\/0.8.1\/Dungeon-Craft: TacoTony's Escape Part 2\/screen_1_1782275738271.jpg"
     ],
-    "original_link": "https://web.archive.org/web/20140924011945/http://www.minecraftforum.net:80/forums/minecraft-pocket-edition/mcpe-maps/2106801-dungeon-craft-tacotonys-escape-part-1-2-out-now"
+    "original_link": "https:\/\/web.archive.org\/web\/20140924011945\/http:\/\/www.minecraftforum.net:80\/forums\/minecraft-pocket-edition\/mcpe-maps\/2106801-dungeon-craft-tacotonys-escape-part-1-2-out-now"
   },
   {
     "title": "Survival Island PE",
     "version": "0.5.0",
     "short_description": "Survival Island PE for 0.5.0",
-    "full_description": "(Original Map Creator: Ashien) \n\n(PE Creator: maces006)\n\nRules:\n1. No leaving island (no where to go anyway so, lol)\n2. No hacking in blocks of any kind (including lava, water and tnt)\n3. Post screenshots of your achievements if possible\n4. If you die at all, then you lose\n5. Have fun\n\nChallenges:\n1.Build a 2 story house with 20+ windows in it.\n2.Build 10 bookshelves.\n3.Create an underground tree farm.\n4.Create an above ground mob/animal trap.\n5.Gather 10 unused diamonds.\n6.Find the treasure of the Lost Curator.\n7.build an above ground cactus farm\n8.Discover the secret Testing Lab\n9.Fix Nether Reactor + Activate\n9.Kill 7 Zombie Pigmen\n10.Create a cobblestone generator\n11.Construct an airstrip using glowstone for light\n12.Build an aircraft\n13.Build an melon farm onboard the airship\n\nCredits:\nAshien - Creation of Survival Island\nMaces006 - Editing for Pocket Edition usage\nLegspin99 - Challenge idea\n\nVideo by Bmc Boz: https://www.youtube.com/watch?v=oEFSYo_w5OA",
+    "full_description": "(Original Map Creator: Ashien) \n\n(PE Creator: maces006)\n\nRules:\n1. No leaving island (no where to go anyway so, lol)\n2. No hacking in blocks of any kind (including lava, water and tnt)\n3. Post screenshots of your achievements if possible\n4. If you die at all, then you lose\n5. Have fun\n\nChallenges:\n1.Build a 2 story house with 20+ windows in it.\n2.Build 10 bookshelves.\n3.Create an underground tree farm.\n4.Create an above ground mob\/animal trap.\n5.Gather 10 unused diamonds.\n6.Find the treasure of the Lost Curator.\n7.build an above ground cactus farm\n8.Discover the secret Testing Lab\n9.Fix Nether Reactor + Activate\n9.Kill 7 Zombie Pigmen\n10.Create a cobblestone generator\n11.Construct an airstrip using glowstone for light\n12.Build an aircraft\n13.Build an melon farm onboard the airship\n\nCredits:\nAshien - Creation of Survival Island\nMaces006 - Editing for Pocket Edition usage\nLegspin99 - Challenge idea\n\nVideo by Bmc Boz: https:\/\/www.youtube.com\/watch?v=oEFSYo_w5OA",
     "date": "2026-06-24 17:22",
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "alt_link": "https://archive.org/download/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2012/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2012.zip/Minecraft%20Pocket%20Edition%2F2012%2F201502%2Fminecraftforum.net%2Fmcpe_maps%2Fdownloads%2Fwww.mediafire.com%2F462%2FSurvival%20Island%20%28P.E%29.zip",
-    "original_link": "https://web.archive.org/web/20141008012014/http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1974308-survival-island-pocket-edition-no-more-updates",
-    "file": "data/0.5.0/Survival Island PE/Survival Island PE.zip",
-    "thumbnail": "data/0.5.0/Survival Island PE/thumb_1782765730029.jpg",
+    "alt_link": "https:\/\/archive.org\/download\/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2012\/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2012.zip\/Minecraft%20Pocket%20Edition%2F2012%2F201502%2Fminecraftforum.net%2Fmcpe_maps%2Fdownloads%2Fwww.mediafire.com%2F462%2FSurvival%20Island%20%28P.E%29.zip",
+    "original_link": "https:\/\/web.archive.org\/web\/20141008012014\/http:\/\/www.minecraftforum.net\/forums\/minecraft-pocket-edition\/mcpe-maps\/1974308-survival-island-pocket-edition-no-more-updates",
+    "file": "data\/0.5.0\/Survival Island PE\/Survival Island PE.zip",
+    "thumbnail": "data\/0.5.0\/Survival Island PE\/thumb_1782765730029.jpg",
     "screenshots": [
-      "data/0.5.0/Survival Island PE/screen_1_1782765731349.jpg",
-      "data/0.5.0/Survival Island PE/screen_2_1782765733090.jpg",
-      "data/0.5.0/Survival Island PE/screen_3_1782765734830.jpg"
+      "data\/0.5.0\/Survival Island PE\/screen_1_1782765731349.jpg",
+      "data\/0.5.0\/Survival Island PE\/screen_2_1782765733090.jpg",
+      "data\/0.5.0\/Survival Island PE\/screen_3_1782765734830.jpg"
     ],
     "updated_date": "2026-07-05 04:00"
   },
@@ -370,13 +370,13 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1535243-fallen-kingdom-near-perfect-replica-w-terrain-open",
-    "file": "data/0.8.1/Fallen Kingdom Mcpe/Fallen Kingdom Mcpe.zip",
-    "thumbnail": "data/0.8.1/Fallen Kingdom Mcpe/thumb_1782322478364.jpg",
+    "original_link": "https:\/\/www.minecraftforum.net\/forums\/mapping-and-modding-java-edition\/maps\/1535243-fallen-kingdom-near-perfect-replica-w-terrain-open",
+    "file": "data\/0.8.1\/Fallen Kingdom Mcpe\/Fallen Kingdom Mcpe.zip",
+    "thumbnail": "data\/0.8.1\/Fallen Kingdom Mcpe\/thumb_1782322478364.jpg",
     "screenshots": [
-      "data/0.8.1/Fallen Kingdom Mcpe/screen_1_1782322479587.jpg"
+      "data\/0.8.1\/Fallen Kingdom Mcpe\/screen_1_1782322479587.jpg"
     ],
     "updated_date": "2026-07-05 04:02"
   },
@@ -389,13 +389,13 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "https://web.archive.org/web/20130616072954/http://www.minecraftforum.net/topic/1499500-ant-farm-survival/",
-    "file": "data/0.4.0/Ant Farm Survival PE/Ant Farm Survival PE.zip",
-    "thumbnail": "data/0.4.0/Ant Farm Survival PE/thumb_1782325238414.jpg",
+    "original_link": "https:\/\/web.archive.org\/web\/20130616072954\/http:\/\/www.minecraftforum.net\/topic\/1499500-ant-farm-survival\/",
+    "file": "data\/0.4.0\/Ant Farm Survival PE\/Ant Farm Survival PE.zip",
+    "thumbnail": "data\/0.4.0\/Ant Farm Survival PE\/thumb_1782325238414.jpg",
     "screenshots": [
-      "data/0.4.0/Ant Farm Survival PE/screen_1_1782325240761.jpg"
+      "data\/0.4.0\/Ant Farm Survival PE\/screen_1_1782325240761.jpg"
     ],
     "updated_date": "2026-06-28 22:56"
   },
@@ -408,13 +408,13 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1977209-sky-diving",
-    "file": "data/0.5.0/Skydiving Map/Skydiving Map.zip",
-    "thumbnail": "data/0.5.0/Skydiving Map/thumb_1782325757387.jpg",
+    "original_link": "https:\/\/www.minecraftforum.net\/forums\/minecraft-pocket-edition\/mcpe-maps\/1977209-sky-diving",
+    "file": "data\/0.5.0\/Skydiving Map\/Skydiving Map.zip",
+    "thumbnail": "data\/0.5.0\/Skydiving Map\/thumb_1782325757387.jpg",
     "screenshots": [
-      "data/0.5.0/Skydiving Map/screen_1_1782325759119.jpg"
+      "data\/0.5.0\/Skydiving Map\/screen_1_1782325759119.jpg"
     ],
     "updated_date": "2026-06-28 23:01"
   },
@@ -427,15 +427,15 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "https://web.archive.org/web/20130523020233/https://www.minecraftforum.net/topic/1558092-advpuzz-the-dropper-for-minecraft-pocket-edition/",
-    "file": "data/0.4.0/The Dropper PE/The Dropper PE.zip",
-    "thumbnail": "data/0.4.0/The Dropper PE/thumb_1782326185839.jpg",
+    "original_link": "https:\/\/web.archive.org\/web\/20130523020233\/https:\/\/www.minecraftforum.net\/topic\/1558092-advpuzz-the-dropper-for-minecraft-pocket-edition\/",
+    "file": "data\/0.4.0\/The Dropper PE\/The Dropper PE.zip",
+    "thumbnail": "data\/0.4.0\/The Dropper PE\/thumb_1782326185839.jpg",
     "screenshots": [
-      "data/0.4.0/The Dropper PE/screen_1_1782326187570.jpg",
-      "data/0.4.0/The Dropper PE/screen_2_1782326188899.jpg",
-      "data/0.4.0/The Dropper PE/screen_3_1782326190443.jpg"
+      "data\/0.4.0\/The Dropper PE\/screen_1_1782326187570.jpg",
+      "data\/0.4.0\/The Dropper PE\/screen_2_1782326188899.jpg",
+      "data\/0.4.0\/The Dropper PE\/screen_3_1782326190443.jpg"
     ],
     "updated_date": "2026-06-28 23:03"
   },
@@ -448,16 +448,16 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "https://web.archive.org/web/20141022185048/http://mcpeuniverse.com/maps/skyfall/",
-    "file": "data/0.8.1/Skyfall/Skyfall.zip",
-    "thumbnail": "data/0.8.1/Skyfall/thumb_1782327124013.jpg",
+    "original_link": "https:\/\/web.archive.org\/web\/20141022185048\/http:\/\/mcpeuniverse.com\/maps\/skyfall\/",
+    "file": "data\/0.8.1\/Skyfall\/Skyfall.zip",
+    "thumbnail": "data\/0.8.1\/Skyfall\/thumb_1782327124013.jpg",
     "screenshots": [
-      "data/0.8.1/Skyfall/screen_1_1782327125472.jpg",
-      "data/0.8.1/Skyfall/screen_2_1782327126701.jpg",
-      "data/0.8.1/Skyfall/screen_3_1782327128237.jpg",
-      "data/0.8.1/Skyfall/screen_4_1782327129772.jpg"
+      "data\/0.8.1\/Skyfall\/screen_1_1782327125472.jpg",
+      "data\/0.8.1\/Skyfall\/screen_2_1782327126701.jpg",
+      "data\/0.8.1\/Skyfall\/screen_3_1782327128237.jpg",
+      "data\/0.8.1\/Skyfall\/screen_4_1782327129772.jpg"
     ],
     "updated_date": "2026-06-28 23:04"
   },
@@ -465,16 +465,16 @@
     "title": "FreeFalling Skydiving Map",
     "version": "0.8.1",
     "short_description": "Enjoy skydiving through three different levels of intense free falling. ",
-    "full_description": "(Map Creator: Nickdog1999)\n\nThis map was made by me in time for New Years! If you choose to make a video please use this link tinyurl.com/nickdog1999\n\nHappy Diving!",
+    "full_description": "(Map Creator: Nickdog1999)\n\nThis map was made by me in time for New Years! If you choose to make a video please use this link tinyurl.com\/nickdog1999\n\nHappy Diving!",
     "date": "2026-06-24 18:59",
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "https://web.archive.org/web/20140127013124/http://mcpeuniverse.com/maps/freefalling/",
-    "file": "data/0.8.1/FreeFalling Skydiving Map/FreeFalling Skydiving Map.zip",
-    "thumbnail": "data/0.8.1/FreeFalling Skydiving Map/thumb_1782327574512.jpg",
+    "original_link": "https:\/\/web.archive.org\/web\/20140127013124\/http:\/\/mcpeuniverse.com\/maps\/freefalling\/",
+    "file": "data\/0.8.1\/FreeFalling Skydiving Map\/FreeFalling Skydiving Map.zip",
+    "thumbnail": "data\/0.8.1\/FreeFalling Skydiving Map\/thumb_1782327574512.jpg",
     "updated_date": "2026-06-28 23:05"
   },
   {
@@ -486,16 +486,16 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "https://web.archive.org/web/20121029094445/http://www.minecraftforum.net/topic/1475613-minecraft-pe-the-walls-pvp-released-now/",
-    "file": "data/0.4.0/The Walls PvP/The Walls PvP.zip",
-    "thumbnail": "data/0.4.0/The Walls PvP/thumb_1782328655485.jpg",
+    "original_link": "https:\/\/web.archive.org\/web\/20121029094445\/http:\/\/www.minecraftforum.net\/topic\/1475613-minecraft-pe-the-walls-pvp-released-now\/",
+    "file": "data\/0.4.0\/The Walls PvP\/The Walls PvP.zip",
+    "thumbnail": "data\/0.4.0\/The Walls PvP\/thumb_1782328655485.jpg",
     "screenshots": [
-      "data/0.4.0/The Walls PvP/screen_1_1782328657420.jpg",
-      "data/0.4.0/The Walls PvP/screen_2_1782328658855.jpg",
-      "data/0.4.0/The Walls PvP/screen_3_1782328660085.jpg",
-      "data/0.4.0/The Walls PvP/screen_4_1782328661620.jpg"
+      "data\/0.4.0\/The Walls PvP\/screen_1_1782328657420.jpg",
+      "data\/0.4.0\/The Walls PvP\/screen_2_1782328658855.jpg",
+      "data\/0.4.0\/The Walls PvP\/screen_3_1782328660085.jpg",
+      "data\/0.4.0\/The Walls PvP\/screen_4_1782328661620.jpg"
     ],
     "updated_date": "2026-07-05 16:54"
   },
@@ -508,13 +508,13 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "https://web.archive.org/web/20140707004533/http://mcpeuniverse.com/maps/mcdonalds-parkour/",
-    "file": "data/0.8.1/McDonald’s Parkour/McDonald’s Parkour.zip",
-    "thumbnail": "data/0.8.1/McDonald’s Parkour/thumb_1782335813170.jpg",
+    "original_link": "https:\/\/web.archive.org\/web\/20140707004533\/http:\/\/mcpeuniverse.com\/maps\/mcdonalds-parkour\/",
+    "file": "data\/0.8.1\/McDonald’s Parkour\/McDonald’s Parkour.zip",
+    "thumbnail": "data\/0.8.1\/McDonald’s Parkour\/thumb_1782335813170.jpg",
     "screenshots": [
-      "data/0.8.1/McDonald’s Parkour/screen_1_1782335815118.jpg"
+      "data\/0.8.1\/McDonald’s Parkour\/screen_1_1782335815118.jpg"
     ],
     "updated_date": "2026-07-08 15:56"
   },
@@ -527,16 +527,16 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1978448-epic-sprint-map-sprint-parkour-15-stages-unique",
-    "file": "data/0.6.1/Epic Sprint Map/Epic Sprint Map.zip",
-    "thumbnail": "data/0.6.1/Epic Sprint Map/thumb_1782338550519.jpg",
+    "original_link": "https:\/\/www.minecraftforum.net\/forums\/minecraft-pocket-edition\/mcpe-maps\/1978448-epic-sprint-map-sprint-parkour-15-stages-unique",
+    "file": "data\/0.6.1\/Epic Sprint Map\/Epic Sprint Map.zip",
+    "thumbnail": "data\/0.6.1\/Epic Sprint Map\/thumb_1782338550519.jpg",
     "screenshots": [
-      "data/0.6.1/Epic Sprint Map/screen_1_1782338552476.jpg",
-      "data/0.6.1/Epic Sprint Map/screen_2_1782338554126.jpg",
-      "data/0.6.1/Epic Sprint Map/screen_3_1782338555553.jpg",
-      "data/0.6.1/Epic Sprint Map/screen_4_1782338557395.jpg"
+      "data\/0.6.1\/Epic Sprint Map\/screen_1_1782338552476.jpg",
+      "data\/0.6.1\/Epic Sprint Map\/screen_2_1782338554126.jpg",
+      "data\/0.6.1\/Epic Sprint Map\/screen_3_1782338555553.jpg",
+      "data\/0.6.1\/Epic Sprint Map\/screen_4_1782338557395.jpg"
     ],
     "updated_date": "2026-07-08 15:54"
   },
@@ -549,17 +549,17 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "thumbnail": "data/0.6.1/Nick's Parkour Center/thumb_1782339728497.jpg",
-    "file": "data/0.6.1/Nick's Parkour Center/Nick's Parkour Center.zip",
+    "thumbnail": "data\/0.6.1\/Nick's Parkour Center\/thumb_1782339728497.jpg",
+    "file": "data\/0.6.1\/Nick's Parkour Center\/Nick's Parkour Center.zip",
     "screenshots": [
-      "data/0.6.1/Nick's Parkour Center/screen_1_1782339730219.jpg",
-      "data/0.6.1/Nick's Parkour Center/screen_2_1782339731446.jpg",
-      "data/0.6.1/Nick's Parkour Center/screen_3_1782339732677.jpg",
-      "data/0.6.1/Nick's Parkour Center/screen_4_1782339734112.jpg"
+      "data\/0.6.1\/Nick's Parkour Center\/screen_1_1782339730219.jpg",
+      "data\/0.6.1\/Nick's Parkour Center\/screen_2_1782339731446.jpg",
+      "data\/0.6.1\/Nick's Parkour Center\/screen_3_1782339732677.jpg",
+      "data\/0.6.1\/Nick's Parkour Center\/screen_4_1782339734112.jpg"
     ],
-    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1979316-hot-topic-0-7-1-11000-downloads-npc-nicks-parkour"
+    "original_link": "https:\/\/www.minecraftforum.net\/forums\/minecraft-pocket-edition\/mcpe-maps\/1979316-hot-topic-0-7-1-11000-downloads-npc-nicks-parkour"
   },
   {
     "title": "Sonic The Hedgehog Minigame Sprint Parkour",
@@ -570,15 +570,15 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1978535-fvdiscos-sonic-the-hedgehog-minigame-sprint",
-    "file": "data/0.6.1/Sonic The Hedgehog Minigame Sprint Parkour/Sonic The Hedgehog Minigame Sprint Parkour.zip",
-    "thumbnail": "data/0.6.1/Sonic The Hedgehog Minigame Sprint Parkour/thumb_1782340588621.jpg",
+    "original_link": "https:\/\/www.minecraftforum.net\/forums\/minecraft-pocket-edition\/mcpe-maps\/1978535-fvdiscos-sonic-the-hedgehog-minigame-sprint",
+    "file": "data\/0.6.1\/Sonic The Hedgehog Minigame Sprint Parkour\/Sonic The Hedgehog Minigame Sprint Parkour.zip",
+    "thumbnail": "data\/0.6.1\/Sonic The Hedgehog Minigame Sprint Parkour\/thumb_1782340588621.jpg",
     "screenshots": [
-      "data/0.6.1/Sonic The Hedgehog Minigame Sprint Parkour/screen_1_1782340590478.jpg",
-      "data/0.6.1/Sonic The Hedgehog Minigame Sprint Parkour/screen_2_1782340592112.jpg",
-      "data/0.6.1/Sonic The Hedgehog Minigame Sprint Parkour/screen_3_1782340593751.jpg"
+      "data\/0.6.1\/Sonic The Hedgehog Minigame Sprint Parkour\/screen_1_1782340590478.jpg",
+      "data\/0.6.1\/Sonic The Hedgehog Minigame Sprint Parkour\/screen_2_1782340592112.jpg",
+      "data\/0.6.1\/Sonic The Hedgehog Minigame Sprint Parkour\/screen_3_1782340593751.jpg"
     ],
     "updated_date": "2026-07-05 04:14"
   },
@@ -591,14 +591,14 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "https://web.archive.org/web/20140806222942/http://www.minecraftforum.net:80/forums/minecraft-pocket-edition/mcpe-maps/1977817-super-mario-bros-parkour-map-new-map-version-0-7-3",
-    "file": "data/0.7.3/Super Mario Bros parkour map/Super Mario Bros parkour map.zip",
-    "thumbnail": "data/0.7.3/Super Mario Bros parkour map/thumb_1782341070211.jpg",
+    "original_link": "https:\/\/web.archive.org\/web\/20140806222942\/http:\/\/www.minecraftforum.net:80\/forums\/minecraft-pocket-edition\/mcpe-maps\/1977817-super-mario-bros-parkour-map-new-map-version-0-7-3",
+    "file": "data\/0.7.3\/Super Mario Bros parkour map\/Super Mario Bros parkour map.zip",
+    "thumbnail": "data\/0.7.3\/Super Mario Bros parkour map\/thumb_1782341070211.jpg",
     "screenshots": [
-      "data/0.7.3/Super Mario Bros parkour map/screen_1_1782341072149.jpg",
-      "data/0.7.3/Super Mario Bros parkour map/screen_2_1782341074204.jpg"
+      "data\/0.7.3\/Super Mario Bros parkour map\/screen_1_1782341072149.jpg",
+      "data\/0.7.3\/Super Mario Bros parkour map\/screen_2_1782341074204.jpg"
     ],
     "updated_date": "2026-07-05 03:29"
   },
@@ -611,16 +611,16 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "https://web.archive.org/web/20130912061748/http://www.minecraftforum.net/topic/1713878-by-team-serperior-super-craft-bros-brawl-25-updated-with-all-new-classses-and-a-battlefield/",
-    "file": "data/0.7.3/Super Craft Bros Brawl 2.5/Super Craft Bros Brawl 2.5.zip",
-    "thumbnail": "data/0.7.3/Super Craft Bros Brawl 2.5/thumb_1782342205181.jpg",
+    "original_link": "https:\/\/web.archive.org\/web\/20130912061748\/http:\/\/www.minecraftforum.net\/topic\/1713878-by-team-serperior-super-craft-bros-brawl-25-updated-with-all-new-classses-and-a-battlefield\/",
+    "file": "data\/0.7.3\/Super Craft Bros Brawl 2.5\/Super Craft Bros Brawl 2.5.zip",
+    "thumbnail": "data\/0.7.3\/Super Craft Bros Brawl 2.5\/thumb_1782342205181.jpg",
     "screenshots": [
-      "data/0.7.3/Super Craft Bros Brawl 2.5/screen_1_1782342206744.jpg",
-      "data/0.7.3/Super Craft Bros Brawl 2.5/screen_2_1782342208177.jpg",
-      "data/0.7.3/Super Craft Bros Brawl 2.5/screen_3_1782342209611.jpg",
-      "data/0.7.3/Super Craft Bros Brawl 2.5/screen_4_1782342211462.jpg"
+      "data\/0.7.3\/Super Craft Bros Brawl 2.5\/screen_1_1782342206744.jpg",
+      "data\/0.7.3\/Super Craft Bros Brawl 2.5\/screen_2_1782342208177.jpg",
+      "data\/0.7.3\/Super Craft Bros Brawl 2.5\/screen_3_1782342209611.jpg",
+      "data\/0.7.3\/Super Craft Bros Brawl 2.5\/screen_4_1782342211462.jpg"
     ],
     "updated_date": "2026-06-28 23:15"
   },
@@ -633,16 +633,16 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1979794-hot-topic-the-teacher-minigame-download-link",
-    "file": "data/0.6.1/The Teacher minigame/The Teacher minigame.zip",
-    "thumbnail": "data/0.6.1/The Teacher minigame/thumb_1782342588479.jpg",
+    "original_link": "https:\/\/www.minecraftforum.net\/forums\/minecraft-pocket-edition\/mcpe-maps\/1979794-hot-topic-the-teacher-minigame-download-link",
+    "file": "data\/0.6.1\/The Teacher minigame\/The Teacher minigame.zip",
+    "thumbnail": "data\/0.6.1\/The Teacher minigame\/thumb_1782342588479.jpg",
     "screenshots": [
-      "data/0.6.1/The Teacher minigame/screen_1_1782342590352.jpg",
-      "data/0.6.1/The Teacher minigame/screen_2_1782342591975.jpg",
-      "data/0.6.1/The Teacher minigame/screen_3_1782342593625.jpg",
-      "data/0.6.1/The Teacher minigame/screen_4_1782342595658.jpg"
+      "data\/0.6.1\/The Teacher minigame\/screen_1_1782342590352.jpg",
+      "data\/0.6.1\/The Teacher minigame\/screen_2_1782342591975.jpg",
+      "data\/0.6.1\/The Teacher minigame\/screen_3_1782342593625.jpg",
+      "data\/0.6.1\/The Teacher minigame\/screen_4_1782342595658.jpg"
     ],
     "updated_date": "2026-07-05 04:17"
   },
@@ -655,15 +655,15 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1982462-mcpe-multi-run-mini-game-4-races-in-1-map-download",
-    "file": "data/0.7.5/Multi Run Mini Game [4 races in 1 map!]/Multi Run Mini Game [4 races in 1 map!].zip",
-    "thumbnail": "data/0.7.5/Multi Run Mini Game [4 races in 1 map!]/thumb_1782343058922.jpg",
+    "original_link": "https:\/\/www.minecraftforum.net\/forums\/minecraft-pocket-edition\/mcpe-maps\/1982462-mcpe-multi-run-mini-game-4-races-in-1-map-download",
+    "file": "data\/0.7.5\/Multi Run Mini Game [4 races in 1 map!]\/Multi Run Mini Game [4 races in 1 map!].zip",
+    "thumbnail": "data\/0.7.5\/Multi Run Mini Game [4 races in 1 map!]\/thumb_1782343058922.jpg",
     "screenshots": [
-      "data/0.7.5/Multi Run Mini Game [4 races in 1 map!]/screen_1_1782343060769.jpg",
-      "data/0.7.5/Multi Run Mini Game [4 races in 1 map!]/screen_2_1782343063242.jpg",
-      "data/0.7.5/Multi Run Mini Game [4 races in 1 map!]/screen_3_1782343065069.jpg"
+      "data\/0.7.5\/Multi Run Mini Game [4 races in 1 map!]\/screen_1_1782343060769.jpg",
+      "data\/0.7.5\/Multi Run Mini Game [4 races in 1 map!]\/screen_2_1782343063242.jpg",
+      "data\/0.7.5\/Multi Run Mini Game [4 races in 1 map!]\/screen_3_1782343065069.jpg"
     ],
     "updated_date": "2026-06-28 23:17"
   },
@@ -676,15 +676,15 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1978425-herobrines-mansion-over-30-000-download-on-mcpe",
-    "file": "data/0.6.1/Herobrines Mansion Map/Herobrines Mansion Map.zip",
-    "thumbnail": "data/0.6.1/Herobrines Mansion Map/thumb_1782343790294.jpg",
+    "original_link": "https:\/\/www.minecraftforum.net\/forums\/minecraft-pocket-edition\/mcpe-maps\/1978425-herobrines-mansion-over-30-000-download-on-mcpe",
+    "file": "data\/0.6.1\/Herobrines Mansion Map\/Herobrines Mansion Map.zip",
+    "thumbnail": "data\/0.6.1\/Herobrines Mansion Map\/thumb_1782343790294.jpg",
     "screenshots": [
-      "data/0.6.1/Herobrines Mansion Map/screen_1_1782343792122.jpg",
-      "data/0.6.1/Herobrines Mansion Map/screen_2_1782343793760.jpg",
-      "data/0.6.1/Herobrines Mansion Map/screen_3_1782343795604.jpg"
+      "data\/0.6.1\/Herobrines Mansion Map\/screen_1_1782343792122.jpg",
+      "data\/0.6.1\/Herobrines Mansion Map\/screen_2_1782343793760.jpg",
+      "data\/0.6.1\/Herobrines Mansion Map\/screen_3_1782343795604.jpg"
     ],
     "updated_date": "2026-07-05 04:18"
   },
@@ -697,16 +697,16 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "https://web.archive.org/web/20130313145856/http://www.minecraftforum.net/topic/1545666-mine-york-city-myc/",
-    "file": "data/0.6.1/Mine York City 0.6.1/Mine York City 0.6.1.zip",
-    "thumbnail": "data/0.6.1/Mine York City 0.6.1/thumb_1782344421278.jpg",
+    "original_link": "https:\/\/web.archive.org\/web\/20130313145856\/http:\/\/www.minecraftforum.net\/topic\/1545666-mine-york-city-myc\/",
+    "file": "data\/0.6.1\/Mine York City 0.6.1\/Mine York City 0.6.1.zip",
+    "thumbnail": "data\/0.6.1\/Mine York City 0.6.1\/thumb_1782344421278.jpg",
     "screenshots": [
-      "data/0.6.1/Mine York City 0.6.1/screen_1_1782344424975.jpg",
-      "data/0.6.1/Mine York City 0.6.1/screen_2_1782344428244.jpg",
-      "data/0.6.1/Mine York City 0.6.1/screen_3_1782344430499.jpg",
-      "data/0.6.1/Mine York City 0.6.1/screen_4_1782344433486.jpg"
+      "data\/0.6.1\/Mine York City 0.6.1\/screen_1_1782344424975.jpg",
+      "data\/0.6.1\/Mine York City 0.6.1\/screen_2_1782344428244.jpg",
+      "data\/0.6.1\/Mine York City 0.6.1\/screen_3_1782344430499.jpg",
+      "data\/0.6.1\/Mine York City 0.6.1\/screen_4_1782344433486.jpg"
     ],
     "updated_date": "2026-06-28 23:19"
   },
@@ -719,15 +719,15 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "http://minecraftpeworlds.blogspot.com/2013/05/hogwarts-map.html",
-    "file": "data/0.6.1/Hogwarts Map/Hogwarts Map.zip",
-    "thumbnail": "data/0.6.1/Hogwarts Map/thumb_1782345028746.jpg",
+    "original_link": "http:\/\/minecraftpeworlds.blogspot.com\/2013\/05\/hogwarts-map.html",
+    "file": "data\/0.6.1\/Hogwarts Map\/Hogwarts Map.zip",
+    "thumbnail": "data\/0.6.1\/Hogwarts Map\/thumb_1782345028746.jpg",
     "screenshots": [
-      "data/0.6.1/Hogwarts Map/screen_1_1782345030365.jpg",
-      "data/0.6.1/Hogwarts Map/screen_2_1782345031638.jpg",
-      "data/0.6.1/Hogwarts Map/screen_3_1782345033218.jpg"
+      "data\/0.6.1\/Hogwarts Map\/screen_1_1782345030365.jpg",
+      "data\/0.6.1\/Hogwarts Map\/screen_2_1782345031638.jpg",
+      "data\/0.6.1\/Hogwarts Map\/screen_3_1782345033218.jpg"
     ],
     "updated_date": "2026-07-05 16:57"
   },
@@ -740,13 +740,13 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "https://web.archive.org/web/20130910104651/http://mcpeuniverse.com/maps/redstone-alternative-tutorial-map/",
-    "file": "data/0.7.2/Redstone Alternative Tutorial Map/Redstone Alternative Tutorial Map.zip",
-    "thumbnail": "data/0.7.2/Redstone Alternative Tutorial Map/thumb_1782345363268.jpg",
+    "original_link": "https:\/\/web.archive.org\/web\/20130910104651\/http:\/\/mcpeuniverse.com\/maps\/redstone-alternative-tutorial-map\/",
+    "file": "data\/0.7.2\/Redstone Alternative Tutorial Map\/Redstone Alternative Tutorial Map.zip",
+    "thumbnail": "data\/0.7.2\/Redstone Alternative Tutorial Map\/thumb_1782345363268.jpg",
     "screenshots": [
-      "data/0.7.2/Redstone Alternative Tutorial Map/screen_1_1782345365409.jpg"
+      "data\/0.7.2\/Redstone Alternative Tutorial Map\/screen_1_1782345365409.jpg"
     ],
     "updated_date": "2026-06-28 23:22"
   },
@@ -759,16 +759,16 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "https://www.planetminecraft.com/project/skyblock-survival-ultimate-v10-for-mcpe-minecraft-pocket-edition-040/",
-    "file": "data/0.7.2/Skyblock Survival Ultimate v2.3/Skyblock Survival Ultimate v2.3.zip",
-    "thumbnail": "data/0.7.2/Skyblock Survival Ultimate v2.3/thumb_1782345676004.jpg",
+    "original_link": "https:\/\/www.planetminecraft.com\/project\/skyblock-survival-ultimate-v10-for-mcpe-minecraft-pocket-edition-040\/",
+    "file": "data\/0.7.2\/Skyblock Survival Ultimate v2.3\/Skyblock Survival Ultimate v2.3.zip",
+    "thumbnail": "data\/0.7.2\/Skyblock Survival Ultimate v2.3\/thumb_1782345676004.jpg",
     "screenshots": [
-      "data/0.7.2/Skyblock Survival Ultimate v2.3/screen_1_1782345677320.jpg",
-      "data/0.7.2/Skyblock Survival Ultimate v2.3/screen_2_1782345678344.jpg",
-      "data/0.7.2/Skyblock Survival Ultimate v2.3/screen_3_1782345679574.jpg",
-      "data/0.7.2/Skyblock Survival Ultimate v2.3/screen_4_1782345680802.jpg"
+      "data\/0.7.2\/Skyblock Survival Ultimate v2.3\/screen_1_1782345677320.jpg",
+      "data\/0.7.2\/Skyblock Survival Ultimate v2.3\/screen_2_1782345678344.jpg",
+      "data\/0.7.2\/Skyblock Survival Ultimate v2.3\/screen_3_1782345679574.jpg",
+      "data\/0.7.2\/Skyblock Survival Ultimate v2.3\/screen_4_1782345680802.jpg"
     ],
     "updated_date": "2026-06-28 23:23"
   },
@@ -781,11 +781,11 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "http://minecraftpeworlds.blogspot.com/2013/07/skygrid-pe.html",
-    "file": "data/0.6.1/SkyGrid PE Map/SkyGrid PE Map.zip",
-    "thumbnail": "data/0.6.1/SkyGrid PE Map/thumb_1782345845778.jpg",
+    "original_link": "http:\/\/minecraftpeworlds.blogspot.com\/2013\/07\/skygrid-pe.html",
+    "file": "data\/0.6.1\/SkyGrid PE Map\/SkyGrid PE Map.zip",
+    "thumbnail": "data\/0.6.1\/SkyGrid PE Map\/thumb_1782345845778.jpg",
     "updated_date": "2026-07-05 04:21"
   },
   {
@@ -797,16 +797,16 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "http://minecraftpeworlds.blogspot.com/p/toy-story-2-mcpe.html",
-    "file": "data/0.6.1/Toy Story 2 Adventure Map 1.2/Toy Story 2 Adventure Map 1.2.zip",
-    "thumbnail": "data/0.6.1/Toy Story 2 Adventure Map 1.2/thumb_1782346904381.jpg",
+    "original_link": "http:\/\/minecraftpeworlds.blogspot.com\/p\/toy-story-2-mcpe.html",
+    "file": "data\/0.6.1\/Toy Story 2 Adventure Map 1.2\/Toy Story 2 Adventure Map 1.2.zip",
+    "thumbnail": "data\/0.6.1\/Toy Story 2 Adventure Map 1.2\/thumb_1782346904381.jpg",
     "screenshots": [
-      "data/0.6.1/Toy Story 2 Adventure Map 1.2/screen_1_1782346905926.jpg",
-      "data/0.6.1/Toy Story 2 Adventure Map 1.2/screen_2_1782346907354.jpg",
-      "data/0.6.1/Toy Story 2 Adventure Map 1.2/screen_3_1782346908992.jpg",
-      "data/0.6.1/Toy Story 2 Adventure Map 1.2/screen_4_1782346910642.jpg"
+      "data\/0.6.1\/Toy Story 2 Adventure Map 1.2\/screen_1_1782346905926.jpg",
+      "data\/0.6.1\/Toy Story 2 Adventure Map 1.2\/screen_2_1782346907354.jpg",
+      "data\/0.6.1\/Toy Story 2 Adventure Map 1.2\/screen_3_1782346908992.jpg",
+      "data\/0.6.1\/Toy Story 2 Adventure Map 1.2\/screen_4_1782346910642.jpg"
     ],
     "updated_date": "2026-07-05 16:59"
   },
@@ -819,14 +819,14 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "https://web.archive.org/web/20131219070828/http://mcpeuniverse.com/maps/ollan-island-pc-port/",
-    "file": "data/0.8.1/Ollan Island PE/Ollan Island PE.zip",
-    "thumbnail": "data/0.8.1/Ollan Island PE/thumb_1782348351529.jpg",
+    "original_link": "https:\/\/web.archive.org\/web\/20131219070828\/http:\/\/mcpeuniverse.com\/maps\/ollan-island-pc-port\/",
+    "file": "data\/0.8.1\/Ollan Island PE\/Ollan Island PE.zip",
+    "thumbnail": "data\/0.8.1\/Ollan Island PE\/thumb_1782348351529.jpg",
     "screenshots": [
-      "data/0.8.1/Ollan Island PE/screen_1_1782348354305.jpg",
-      "data/0.8.1/Ollan Island PE/screen_2_1782348357773.jpg"
+      "data\/0.8.1\/Ollan Island PE\/screen_1_1782348354305.jpg",
+      "data\/0.8.1\/Ollan Island PE\/screen_2_1782348357773.jpg"
     ],
     "updated_date": "2026-07-05 04:25"
   },
@@ -839,11 +839,11 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "https://web.archive.org/web/20140601063855/http://mcpeuniverse.com/maps/mcpe-0-8-1-school-rules-adventure-map/",
-    "file": "data/0.8.1/School Rules Adventure Map/School Rules Adventure Map.zip",
-    "thumbnail": "data/0.8.1/School Rules Adventure Map/thumb_1782348931116.jpg",
+    "original_link": "https:\/\/web.archive.org\/web\/20140601063855\/http:\/\/mcpeuniverse.com\/maps\/mcpe-0-8-1-school-rules-adventure-map\/",
+    "file": "data\/0.8.1\/School Rules Adventure Map\/School Rules Adventure Map.zip",
+    "thumbnail": "data\/0.8.1\/School Rules Adventure Map\/thumb_1782348931116.jpg",
     "updated_date": "2026-06-28 23:30"
   },
   {
@@ -855,16 +855,16 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1978151-tower-hour-mini-game-mob-wave-defense-20-waves",
-    "file": "data/0.6.1/Tower Hour/Tower Hour.zip",
-    "thumbnail": "data/0.6.1/Tower Hour/thumb_1782580837308.jpg",
+    "original_link": "https:\/\/www.minecraftforum.net\/forums\/minecraft-pocket-edition\/mcpe-maps\/1978151-tower-hour-mini-game-mob-wave-defense-20-waves",
+    "file": "data\/0.6.1\/Tower Hour\/Tower Hour.zip",
+    "thumbnail": "data\/0.6.1\/Tower Hour\/thumb_1782580837308.jpg",
     "screenshots": [
-      "data/0.6.1/Tower Hour/screen_1_1782580839455.jpg",
-      "data/0.6.1/Tower Hour/screen_2_1782580842318.jpg",
-      "data/0.6.1/Tower Hour/screen_3_1782580844267.jpg",
-      "data/0.6.1/Tower Hour/screen_4_1782580846817.jpg"
+      "data\/0.6.1\/Tower Hour\/screen_1_1782580839455.jpg",
+      "data\/0.6.1\/Tower Hour\/screen_2_1782580842318.jpg",
+      "data\/0.6.1\/Tower Hour\/screen_3_1782580844267.jpg",
+      "data\/0.6.1\/Tower Hour\/screen_4_1782580846817.jpg"
     ],
     "updated_date": "2026-06-29 04:33"
   },
@@ -877,16 +877,16 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "thumbnail": "data/0.6.1/Duck Hunter Multiplayer Mini-Game/thumb_1782702845379.jpg",
-    "file": "data/0.6.1/Duck Hunter Multiplayer Mini-Game/Duck Hunter Multiplayer Mini-Game.zip",
+    "thumbnail": "data\/0.6.1\/Duck Hunter Multiplayer Mini-Game\/thumb_1782702845379.jpg",
+    "file": "data\/0.6.1\/Duck Hunter Multiplayer Mini-Game\/Duck Hunter Multiplayer Mini-Game.zip",
     "screenshots": [
-      "data/0.6.1/Duck Hunter Multiplayer Mini-Game/screen_1_1782702847213.jpg",
-      "data/0.6.1/Duck Hunter Multiplayer Mini-Game/screen_2_1782702849006.jpg"
+      "data\/0.6.1\/Duck Hunter Multiplayer Mini-Game\/screen_1_1782702847213.jpg",
+      "data\/0.6.1\/Duck Hunter Multiplayer Mini-Game\/screen_2_1782702849006.jpg"
     ],
-    "alt_link": "https://archive.org/download/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2013/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2013.zip/Minecraft%20Pocket%20Edition%2F2013%2F201502%2Fminecraftforum.net%2Fmcpe_maps%2Fdownloads%2Fwww.dropbox.com%2Fbaa%2FDuck%20Hunter%20Multiplayer.zip",
-    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1977767-duck-hunter-multiplayer-mini-game-update"
+    "alt_link": "https:\/\/archive.org\/download\/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2013\/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2013.zip\/Minecraft%20Pocket%20Edition%2F2013%2F201502%2Fminecraftforum.net%2Fmcpe_maps%2Fdownloads%2Fwww.dropbox.com%2Fbaa%2FDuck%20Hunter%20Multiplayer.zip",
+    "original_link": "https:\/\/www.minecraftforum.net\/forums\/minecraft-pocket-edition\/mcpe-maps\/1977767-duck-hunter-multiplayer-mini-game-update"
   },
   {
     "title": "Von_Fatalis Castle V16",
@@ -897,18 +897,18 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "thumbnail": "data/0.7.6/Von_Fatalis Castle V16/thumb_1782707397656.jpg",
-    "file": "data/0.7.6/Von_Fatalis Castle V16/Von_Fatalis Castle V16.zip",
+    "thumbnail": "data\/0.7.6\/Von_Fatalis Castle V16\/thumb_1782707397656.jpg",
+    "file": "data\/0.7.6\/Von_Fatalis Castle V16\/Von_Fatalis Castle V16.zip",
     "screenshots": [
-      "data/0.7.6/Von_Fatalis Castle V16/screen_1_1782707400547.jpg",
-      "data/0.7.6/Von_Fatalis Castle V16/screen_2_1782707401976.jpg",
-      "data/0.7.6/Von_Fatalis Castle V16/screen_3_1782707403310.jpg",
-      "data/0.7.6/Von_Fatalis Castle V16/screen_4_1782707404928.jpg"
+      "data\/0.7.6\/Von_Fatalis Castle V16\/screen_1_1782707400547.jpg",
+      "data\/0.7.6\/Von_Fatalis Castle V16\/screen_2_1782707401976.jpg",
+      "data\/0.7.6\/Von_Fatalis Castle V16\/screen_3_1782707403310.jpg",
+      "data\/0.7.6\/Von_Fatalis Castle V16\/screen_4_1782707404928.jpg"
     ],
-    "alt_link": "https://archive.org/download/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2012/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2012.zip/Minecraft%20Pocket%20Edition%2F2012%2F201611%2Fminecraftforum.net%2Fmcpe_maps%2Fdownloads%2Fwww.mediafire.com%2Fd3f%2Fdownload_w7y9r6j460gdwll_Castle_Von_Fatalis_creative_V16.zip",
-    "original_link": "https://web.archive.org/web/20171227225745/http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1975038-update-v-16-von_fatalis-castle-map-the-biggest"
+    "alt_link": "https:\/\/archive.org\/download\/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2012\/Minecraft_Archive_Project_Minecraft_Pocket_Edition_2012.zip\/Minecraft%20Pocket%20Edition%2F2012%2F201611%2Fminecraftforum.net%2Fmcpe_maps%2Fdownloads%2Fwww.mediafire.com%2Fd3f%2Fdownload_w7y9r6j460gdwll_Castle_Von_Fatalis_creative_V16.zip",
+    "original_link": "https:\/\/web.archive.org\/web\/20171227225745\/http:\/\/www.minecraftforum.net\/forums\/minecraft-pocket-edition\/mcpe-maps\/1975038-update-v-16-von_fatalis-castle-map-the-biggest"
   },
   {
     "title": "Skylands Hunger Games PE",
@@ -919,37 +919,37 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "thumbnail": "data/0.5.0/Skylands Hunger Games PE/thumb_1782757783185.jpg",
-    "file": "data/0.5.0/Skylands Hunger Games PE/Skylands Hunger Games PE.zip",
+    "thumbnail": "data\/0.5.0\/Skylands Hunger Games PE\/thumb_1782757783185.jpg",
+    "file": "data\/0.5.0\/Skylands Hunger Games PE\/Skylands Hunger Games PE.zip",
     "screenshots": [
-      "data/0.5.0/Skylands Hunger Games PE/screen_1_1782757785233.jpg",
-      "data/0.5.0/Skylands Hunger Games PE/screen_2_1782757787888.jpg",
-      "data/0.5.0/Skylands Hunger Games PE/screen_3_1782757789424.jpg",
-      "data/0.5.0/Skylands Hunger Games PE/screen_4_1782757790960.jpg"
+      "data\/0.5.0\/Skylands Hunger Games PE\/screen_1_1782757785233.jpg",
+      "data\/0.5.0\/Skylands Hunger Games PE\/screen_2_1782757787888.jpg",
+      "data\/0.5.0\/Skylands Hunger Games PE\/screen_3_1782757789424.jpg",
+      "data\/0.5.0\/Skylands Hunger Games PE\/screen_4_1782757790960.jpg"
     ],
-    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1976784-skylands-hunger-games-pe-officially-released"
+    "original_link": "https:\/\/www.minecraftforum.net\/forums\/minecraft-pocket-edition\/mcpe-maps\/1976784-skylands-hunger-games-pe-officially-released"
   },
   {
     "title": "Skyblock Warriors PvP",
     "version": "0.7.1",
-    "short_description": "Original PC Map By SwipeShotTeam: https://www.planetminecraft.com/project/skyblock-warriors---4-skyblocks-4-teams-1-winner/",
+    "short_description": "Original PC Map By SwipeShotTeam: https:\/\/www.planetminecraft.com\/project\/skyblock-warriors---4-skyblocks-4-teams-1-winner\/",
     "full_description": "(Original Map Creator: SwipeShotTeam)\n\n(PE Creator: Skeletons_Gaming)",
     "date": "2026-06-29 20:58",
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "alt_link": "https://www.mediafire.com/download/8tnvafiq3eh2eyl/SKYBLOCK_WARRIOR.zip",
-    "file": "data/0.7.1/Skyblock Warriors PvP/Skyblock Warriors PvP.zip",
-    "thumbnail": "data/0.7.1/Skyblock Warriors PvP/thumb_1782766701006.jpg",
+    "alt_link": "https:\/\/www.mediafire.com\/download\/8tnvafiq3eh2eyl\/SKYBLOCK_WARRIOR.zip",
+    "file": "data\/0.7.1\/Skyblock Warriors PvP\/Skyblock Warriors PvP.zip",
+    "thumbnail": "data\/0.7.1\/Skyblock Warriors PvP\/thumb_1782766701006.jpg",
     "screenshots": [
-      "data/0.7.1/Skyblock Warriors PvP/screen_1_1782766702330.jpg",
-      "data/0.7.1/Skyblock Warriors PvP/screen_2_1782766704069.jpg",
-      "data/0.7.1/Skyblock Warriors PvP/screen_3_1782766705399.jpg",
-      "data/0.7.1/Skyblock Warriors PvP/screen_4_1782766706833.jpg"
+      "data\/0.7.1\/Skyblock Warriors PvP\/screen_1_1782766702330.jpg",
+      "data\/0.7.1\/Skyblock Warriors PvP\/screen_2_1782766704069.jpg",
+      "data\/0.7.1\/Skyblock Warriors PvP\/screen_3_1782766705399.jpg",
+      "data\/0.7.1\/Skyblock Warriors PvP\/screen_4_1782766706833.jpg"
     ],
     "updated_date": "2026-07-05 04:27"
   },
@@ -962,14 +962,14 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "http://minecraftpeworlds.blogspot.com/p/temple-of-notch.html",
-    "file": "data/0.6.1/Temple of Notch Pocket Edition/Temple of Notch Pocket Edition.zip",
-    "thumbnail": "data/0.6.1/Temple of Notch Pocket Edition/thumb_1782768633654.jpg",
+    "original_link": "http:\/\/minecraftpeworlds.blogspot.com\/p\/temple-of-notch.html",
+    "file": "data\/0.6.1\/Temple of Notch Pocket Edition\/Temple of Notch Pocket Edition.zip",
+    "thumbnail": "data\/0.6.1\/Temple of Notch Pocket Edition\/thumb_1782768633654.jpg",
     "screenshots": [
-      "data/0.6.1/Temple of Notch Pocket Edition/screen_1_1782768634773.jpg",
-      "data/0.6.1/Temple of Notch Pocket Edition/screen_2_1782768637129.jpg"
+      "data\/0.6.1\/Temple of Notch Pocket Edition\/screen_1_1782768634773.jpg",
+      "data\/0.6.1\/Temple of Notch Pocket Edition\/screen_2_1782768637129.jpg"
     ],
     "updated_date": "2026-07-05 17:00"
   },
@@ -982,14 +982,14 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "thumbnail": "data/0.7.2/PaintBall Red vs Blue/thumb_1782770163957.jpg",
-    "file": "data/0.7.2/PaintBall Red vs Blue/PaintBall Red vs Blue.zip",
+    "thumbnail": "data\/0.7.2\/PaintBall Red vs Blue\/thumb_1782770163957.jpg",
+    "file": "data\/0.7.2\/PaintBall Red vs Blue\/PaintBall Red vs Blue.zip",
     "screenshots": [
-      "data/0.7.2/PaintBall Red vs Blue/screen_1_1782770165695.jpg"
+      "data\/0.7.2\/PaintBall Red vs Blue\/screen_1_1782770165695.jpg"
     ],
-    "original_link": "https://web.archive.org/web/20161115063121/http://mcpeuniverse.com/maps/paintball-red-vs-blue-by-fearfrankios"
+    "original_link": "https:\/\/web.archive.org\/web\/20161115063121\/http:\/\/mcpeuniverse.com\/maps\/paintball-red-vs-blue-by-fearfrankios"
   },
   {
     "title": "Biosphere Survival 0.7.2",
@@ -1000,36 +1000,36 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "thumbnail": "data/0.7.2/Biosphere Survival 0.7.2/thumb_1782772882791.jpg",
-    "file": "data/0.7.2/Biosphere Survival 0.7.2/Biosphere Survival 0.7.2.zip",
+    "thumbnail": "data\/0.7.2\/Biosphere Survival 0.7.2\/thumb_1782772882791.jpg",
+    "file": "data\/0.7.2\/Biosphere Survival 0.7.2\/Biosphere Survival 0.7.2.zip",
     "screenshots": [
-      "data/0.7.2/Biosphere Survival 0.7.2/screen_1_1782772884261.jpg",
-      "data/0.7.2/Biosphere Survival 0.7.2/screen_2_1782772885719.jpg",
-      "data/0.7.2/Biosphere Survival 0.7.2/screen_3_1782772887031.jpg",
-      "data/0.7.2/Biosphere Survival 0.7.2/screen_4_1782772888459.jpg"
+      "data\/0.7.2\/Biosphere Survival 0.7.2\/screen_1_1782772884261.jpg",
+      "data\/0.7.2\/Biosphere Survival 0.7.2\/screen_2_1782772885719.jpg",
+      "data\/0.7.2\/Biosphere Survival 0.7.2\/screen_3_1782772887031.jpg",
+      "data\/0.7.2\/Biosphere Survival 0.7.2\/screen_4_1782772888459.jpg"
     ],
-    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1979527-mcpe-biosphere-survival-0-7-2"
+    "original_link": "https:\/\/www.minecraftforum.net\/forums\/minecraft-pocket-edition\/mcpe-maps\/1979527-mcpe-biosphere-survival-0-7-2"
   },
   {
     "title": "Texture Pack Test World for ModifiedEight",
     "version": "0.8.1",
     "short_description": "Texture pack world to test or see every textures, This World is specifically meant to work on ModifiedEight, The new additions are also included behind the painting wall",
-    "full_description": "(Map Creator: Unix704)\n\nFlat Map Used:\n--------------------\n\nFlat World Without Village By Lethal_Zak: https://web.archive.org/web/20121004034957/http://www.minecraftforum.net/topic/1383995-superflat-pe-want-a-custom-superflat-map-also-i-can-port-pc-mapsrequests-resumed/\n\nFeel Free to also check out my Minecraft Pocket Edition Archive that is still a work in progress: http://www.nostalgiaforum.rf.gd/index.php?threads/588/&i=1",
+    "full_description": "(Map Creator: Unix704)\n\nFlat Map Used:\n--------------------\n\nFlat World Without Village By Lethal_Zak: https:\/\/web.archive.org\/web\/20121004034957\/http:\/\/www.minecraftforum.net\/topic\/1383995-superflat-pe-want-a-custom-superflat-map-also-i-can-port-pc-mapsrequests-resumed\/\n\nFeel Free to also check out my Minecraft Pocket Edition Archive that is still a work in progress: http:\/\/www.nostalgiaforum.rf.gd\/index.php?threads\/588\/&i=1",
     "date": "2026-06-30 20:05",
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "thumbnail": "data/0.8.1/Texture Pack Test World for ModifiedEight/thumb_1782849917384.jpg",
-    "file": "data/0.8.1/Texture Pack Test World for ModifiedEight/Texture Pack Test World for ModifiedEight.zip",
+    "thumbnail": "data\/0.8.1\/Texture Pack Test World for ModifiedEight\/thumb_1782849917384.jpg",
+    "file": "data\/0.8.1\/Texture Pack Test World for ModifiedEight\/Texture Pack Test World for ModifiedEight.zip",
     "screenshots": [
-      "data/0.8.1/Texture Pack Test World for ModifiedEight/screen_1_1782849920140.jpg",
-      "data/0.8.1/Texture Pack Test World for ModifiedEight/screen_2_1782849922289.jpg",
-      "data/0.8.1/Texture Pack Test World for ModifiedEight/screen_3_1782849923919.jpg",
-      "data/0.8.1/Texture Pack Test World for ModifiedEight/screen_4_1782849925453.jpg"
+      "data\/0.8.1\/Texture Pack Test World for ModifiedEight\/screen_1_1782849920140.jpg",
+      "data\/0.8.1\/Texture Pack Test World for ModifiedEight\/screen_2_1782849922289.jpg",
+      "data\/0.8.1\/Texture Pack Test World for ModifiedEight\/screen_3_1782849923919.jpg",
+      "data\/0.8.1\/Texture Pack Test World for ModifiedEight\/screen_4_1782849925453.jpg"
     ]
   },
   {
@@ -1041,15 +1041,15 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "thumbnail": "data/0.8.1/Never Ending Coaster (V4)/thumb_1782870814886.jpg",
-    "file": "data/0.8.1/Never Ending Coaster (V4)/Never Ending Coaster (V4).zip",
+    "thumbnail": "data\/0.8.1\/Never Ending Coaster (V4)\/thumb_1782870814886.jpg",
+    "file": "data\/0.8.1\/Never Ending Coaster (V4)\/Never Ending Coaster (V4).zip",
     "screenshots": [
-      "data/0.8.1/Never Ending Coaster (V4)/screen_1_1782870816710.jpg",
-      "data/0.8.1/Never Ending Coaster (V4)/screen_2_1782870818456.jpg"
+      "data\/0.8.1\/Never Ending Coaster (V4)\/screen_1_1782870816710.jpg",
+      "data\/0.8.1\/Never Ending Coaster (V4)\/screen_2_1782870818456.jpg"
     ],
-    "original_link": "https://web.archive.org/web/20131211100426/http://mcpeuniverse.com/maps/tech-talks-mess-coaster/"
+    "original_link": "https:\/\/web.archive.org\/web\/20131211100426\/http:\/\/mcpeuniverse.com\/maps\/tech-talks-mess-coaster\/"
   },
   {
     "title": "Mini Golf PE",
@@ -1060,16 +1060,16 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "original_link": "https://minecraftpeworlds.blogspot.com/p/mini-golf.html",
-    "file": "data/0.5.0/Mini Golf PE/Mini Golf PE.zip",
-    "thumbnail": "data/0.5.0/Mini Golf PE/thumb_1783205594898.jpg",
+    "original_link": "https:\/\/minecraftpeworlds.blogspot.com\/p\/mini-golf.html",
+    "file": "data\/0.5.0\/Mini Golf PE\/Mini Golf PE.zip",
+    "thumbnail": "data\/0.5.0\/Mini Golf PE\/thumb_1783205594898.jpg",
     "screenshots": [
-      "data/0.5.0/Mini Golf PE/screen_1_1783205596107.jpg",
-      "data/0.5.0/Mini Golf PE/screen_2_1783205597346.jpg",
-      "data/0.5.0/Mini Golf PE/screen_3_1783205598576.jpg",
-      "data/0.5.0/Mini Golf PE/screen_4_1783205599807.jpg"
+      "data\/0.5.0\/Mini Golf PE\/screen_1_1783205596107.jpg",
+      "data\/0.5.0\/Mini Golf PE\/screen_2_1783205597346.jpg",
+      "data\/0.5.0\/Mini Golf PE\/screen_3_1783205598576.jpg",
+      "data\/0.5.0\/Mini Golf PE\/screen_4_1783205599807.jpg"
     ],
     "updated_date": "2026-07-05 04:31"
   },
@@ -1082,17 +1082,17 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "thumbnail": "data/0.8.1/iMini Games Park V6 by Maftzer/thumb_1783467634424.jpg",
-    "file": "data/0.8.1/iMini Games Park V6 by Maftzer/iMini Games Park V6 by Maftzer.zip",
+    "thumbnail": "data\/0.8.1\/iMini Games Park V6 by Maftzer\/thumb_1783467634424.jpg",
+    "file": "data\/0.8.1\/iMini Games Park V6 by Maftzer\/iMini Games Park V6 by Maftzer.zip",
     "screenshots": [
-      "data/0.8.1/iMini Games Park V6 by Maftzer/screen_1_1783467635834.jpg",
-      "data/0.8.1/iMini Games Park V6 by Maftzer/screen_2_1783467637374.jpg",
-      "data/0.8.1/iMini Games Park V6 by Maftzer/screen_3_1783467638909.jpg",
-      "data/0.8.1/iMini Games Park V6 by Maftzer/screen_4_1783467640341.jpg"
+      "data\/0.8.1\/iMini Games Park V6 by Maftzer\/screen_1_1783467635834.jpg",
+      "data\/0.8.1\/iMini Games Park V6 by Maftzer\/screen_2_1783467637374.jpg",
+      "data\/0.8.1\/iMini Games Park V6 by Maftzer\/screen_3_1783467638909.jpg",
+      "data\/0.8.1\/iMini Games Park V6 by Maftzer\/screen_4_1783467640341.jpg"
     ],
-    "original_link": "https://web.archive.org/web/20141027041802/http://mcpeuniverse.com/maps/imini-games-park-v6-new-feb-2",
+    "original_link": "https:\/\/web.archive.org\/web\/20141027041802\/http:\/\/mcpeuniverse.com\/maps\/imini-games-park-v6-new-feb-2",
     "license": "@Maftzer3 Map Maker 2011"
   },
   {
@@ -1104,11 +1104,11 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "thumbnail": "data/0.8.1/Tech Talk’s mess coaster/thumb_1783479553220.jpg",
-    "file": "data/0.8.1/Tech Talk’s mess coaster/Tech Talk’s mess coaster.zip",
-    "original_link": "https://web.archive.org/web/20131211100426/http://mcpeuniverse.com/maps/tech-talks-mess-coaster/"
+    "thumbnail": "data\/0.8.1\/Tech Talk’s mess coaster\/thumb_1783479553220.jpg",
+    "file": "data\/0.8.1\/Tech Talk’s mess coaster\/Tech Talk’s mess coaster.zip",
+    "original_link": "https:\/\/web.archive.org\/web\/20131211100426\/http:\/\/mcpeuniverse.com\/maps\/tech-talks-mess-coaster\/"
   },
   {
     "title": "Capture the Wool PE",
@@ -1119,35 +1119,36 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "file": "data/0.6.1/Capture the Wool PE/Capture the Wool PE.zip",
-    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1979715-capture-the-wool-very-fun-pvp-madness",
-    "thumbnail": "data/0.6.1/Capture the Wool PE/thumb_1783480070963.jpg",
+    "file": "data\/0.6.1\/Capture the Wool PE\/Capture the Wool PE.zip",
+    "original_link": "https:\/\/www.minecraftforum.net\/forums\/minecraft-pocket-edition\/mcpe-maps\/1979715-capture-the-wool-very-fun-pvp-madness",
+    "thumbnail": "data\/0.6.1\/Capture the Wool PE\/thumb_1783480070963.jpg",
     "screenshots": [
-      "data/0.6.1/Capture the Wool PE/screen_1_1783480072189.jpg",
-      "data/0.6.1/Capture the Wool PE/screen_2_1783480073312.jpg"
+      "data\/0.6.1\/Capture the Wool PE\/screen_1_1783480072189.jpg",
+      "data\/0.6.1\/Capture the Wool PE\/screen_2_1783480073312.jpg"
     ],
     "updated_date": "2026-07-08 15:08"
   },
   {
     "title": "Camp Puzzlemaca by East",
-    "version": "0.8.1",
-    "short_description": "Welcome everyone, East here, and welcome to my adventure/puzzle/parkour map! The map in total took me 4 months. It’s fun and difficult and I hope you enjoy!",
+    "version": "0.15.10, 0.8.1",
+    "short_description": "Welcome everyone, East here, and welcome to my adventure\/puzzle\/parkour map! The map in total took m",
     "full_description": "(Map Creator: East)\n\n————————-Storyline————————-\n\n“Have fun loser!” your sister screamed out the window of the car, while sticking her tongue out. That’s the only happy thing you remembered from the whole week. Since you have been at this camp called Camp Fun-o, nothing fun at all has happened. It’s dreadful staying at this camp, in your opinion, because there is nothing to do.\nThe next morning, while trying to swim in the foot deep pool, a camp counselor calls you out. You have never seen this guy before and he looks suspicious. He orders you to go into your cabin and to read the note left on your bed and above the door. You, confused, go to see what it is. Entering your cabin, while realizing no one is in there, you read the note on your bed;\n\nWelcome to Camp Puzzlemaca, registration starts inside the waterfall, do not tell anyone!\n\n“Inside the waterfall?” you think to yourself, “Why there? What’s going to happen? Am I moving camps? Oh please tell me I’m moving camps!”\nYou then read the message on the bed;\n\nTo find the key, you must go and peek; in somewhere you’re not allowed!\n   \n“That’s it! The Camp Office!” you exclaim. You proudly sneak into the camp office; rapidly steal the key left on the table and start heading to the waterfall. Once reached inside the waterfall, you place the key inside the key holder. What lies behind the keyhole? Or under? Or above? This is when your new camp actually starts…\n \n————————-Rules–———————–\n1. Play on peaceful mode\n2. No breaking blocks unless told to\n3. Sleep always when there are beds\n4. Have fun!\n\n————————-Thanks–———————–\n\nThank you Rubikcubezzz for beta testing my map! Also for Serperior for inspiring me!\n\n————————-————————-——————-\n\nThat’s it for today guys! Follow me on twitter @ApolloMcpe for more! See ya!",
+    "file": "data\/0.8.1\/Camp Puzzlemaca by East\/Camp Puzzlemaca by East.zip",
     "date": "2026-07-08 03:13",
+    "updated_date": "2026-10-24 19:45",
     "type": "maps",
+    "original_link": "https:\/\/web.archive.org\/web\/20140719065611\/http:\/\/mcpeuniverse.com\/maps\/camp-puzzlemaca-adventurepuzzleparkour\/",
     "author": {
-      "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "name": "Fer09ct",
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/169913371?v=4"
     },
-    "thumbnail": "data/0.8.1/Camp Puzzlemaca by East/thumb_1783480393543.jpg",
-    "file": "data/0.8.1/Camp Puzzlemaca by East/Camp Puzzlemaca by East.zip",
+    "thumbnail": "data\/0.8.1\/Camp Puzzlemaca by East\/thumb_1783480393543.jpg",
     "screenshots": [
-      "data/0.8.1/Camp Puzzlemaca by East/screen_1_1783480395277.jpg",
-      "data/0.8.1/Camp Puzzlemaca by East/screen_2_1783480398245.jpg"
-    ],
-    "original_link": "https://web.archive.org/web/20140719065611/http://mcpeuniverse.com/maps/camp-puzzlemaca-adventurepuzzleparkour/"
+      "data\/0.8.1\/Camp Puzzlemaca by East\/screen_1_1783480395277.jpg",
+      "data\/0.8.1\/Camp Puzzlemaca by East\/screen_2_1783480398245.jpg"
+    ]
   },
   {
     "title": "Aqua Fun Water Park",
@@ -1158,37 +1159,37 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "thumbnail": "data/0.8.1/Aqua Fun Water Park/thumb_1783480742741.jpg",
-    "file": "data/0.8.1/Aqua Fun Water Park/Aqua Fun Water Park.zip",
+    "thumbnail": "data\/0.8.1\/Aqua Fun Water Park\/thumb_1783480742741.jpg",
+    "file": "data\/0.8.1\/Aqua Fun Water Park\/Aqua Fun Water Park.zip",
     "screenshots": [
-      "data/0.8.1/Aqua Fun Water Park/screen_1_1783480746223.jpg",
-      "data/0.8.1/Aqua Fun Water Park/screen_2_1783480749299.jpg",
-      "data/0.8.1/Aqua Fun Water Park/screen_3_1783480752467.jpg",
-      "data/0.8.1/Aqua Fun Water Park/screen_4_1783480754924.jpg"
+      "data\/0.8.1\/Aqua Fun Water Park\/screen_1_1783480746223.jpg",
+      "data\/0.8.1\/Aqua Fun Water Park\/screen_2_1783480749299.jpg",
+      "data\/0.8.1\/Aqua Fun Water Park\/screen_3_1783480752467.jpg",
+      "data\/0.8.1\/Aqua Fun Water Park\/screen_4_1783480754924.jpg"
     ],
-    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1984212-aqua-fun-waterpark-now-with-video"
+    "original_link": "https:\/\/www.minecraftforum.net\/forums\/minecraft-pocket-edition\/mcpe-maps\/1984212-aqua-fun-waterpark-now-with-video"
   },
   {
     "title": "Hot Sand Minigame",
     "version": "0.7.6",
     "short_description": "MCPE minigame by Annyske007",
-    "full_description": "(Map Creator: Annyske007)\n\nVideo by Moopig: https://youtu.be/7xTI9x5KlDw?si=jFkF6lLU9edAgu4I\n\nHello guys, this is my new minigame. In this minigame you have to use flint&steel to burn the roof, the roof is made out of wood and it holds sand. the sand will randomly fall. You win if you are the last person to suffecate.\n\nAll the rules are inside the map itself on signs!",
+    "full_description": "(Map Creator: Annyske007)\n\nVideo by Moopig: https:\/\/youtu.be\/7xTI9x5KlDw?si=jFkF6lLU9edAgu4I\n\nHello guys, this is my new minigame. In this minigame you have to use flint&steel to burn the roof, the roof is made out of wood and it holds sand. the sand will randomly fall. You win if you are the last person to suffecate.\n\nAll the rules are inside the map itself on signs!",
     "date": "2026-07-08 04:23",
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "thumbnail": "data/0.7.6/Hot Sand Minigame/thumb_1783484618032.jpg",
-    "file": "data/0.7.6/Hot Sand Minigame/Hot Sand Minigame.zip",
+    "thumbnail": "data\/0.7.6\/Hot Sand Minigame\/thumb_1783484618032.jpg",
+    "file": "data\/0.7.6\/Hot Sand Minigame\/Hot Sand Minigame.zip",
     "screenshots": [
-      "data/0.7.6/Hot Sand Minigame/screen_1_1783484619111.jpg",
-      "data/0.7.6/Hot Sand Minigame/screen_2_1783484620090.jpg",
-      "data/0.7.6/Hot Sand Minigame/screen_3_1783484621319.jpg"
+      "data\/0.7.6\/Hot Sand Minigame\/screen_1_1783484619111.jpg",
+      "data\/0.7.6\/Hot Sand Minigame\/screen_2_1783484620090.jpg",
+      "data\/0.7.6\/Hot Sand Minigame\/screen_3_1783484621319.jpg"
     ],
-    "original_link": "https://web.archive.org/web/20131123062056/https://mcpeuniverse.com/maps/hot-sand-minecraft-pe-minigame-by-annyske007/"
+    "original_link": "https:\/\/web.archive.org\/web\/20131123062056\/https:\/\/mcpeuniverse.com\/maps\/hot-sand-minecraft-pe-minigame-by-annyske007\/"
   },
   {
     "title": "Extreme Spleef Arena",
@@ -1199,17 +1200,17 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "thumbnail": "data/0.7.1/Extreme Spleef Arena/thumb_1783485171127.jpg",
-    "file": "data/0.7.1/Extreme Spleef Arena/Extreme Spleef Arena.zip",
+    "thumbnail": "data\/0.7.1\/Extreme Spleef Arena\/thumb_1783485171127.jpg",
+    "file": "data\/0.7.1\/Extreme Spleef Arena\/Extreme Spleef Arena.zip",
     "screenshots": [
-      "data/0.7.1/Extreme Spleef Arena/screen_1_1783485172653.jpg",
-      "data/0.7.1/Extreme Spleef Arena/screen_2_1783485174090.jpg",
-      "data/0.7.1/Extreme Spleef Arena/screen_3_1783485175624.jpg",
-      "data/0.7.1/Extreme Spleef Arena/screen_4_1783485176957.jpg"
+      "data\/0.7.1\/Extreme Spleef Arena\/screen_1_1783485172653.jpg",
+      "data\/0.7.1\/Extreme Spleef Arena\/screen_2_1783485174090.jpg",
+      "data\/0.7.1\/Extreme Spleef Arena\/screen_3_1783485175624.jpg",
+      "data\/0.7.1\/Extreme Spleef Arena\/screen_4_1783485176957.jpg"
     ],
-    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1980297-extreme-spleef-arena-10-levels-of-pure-spleef"
+    "original_link": "https:\/\/www.minecraftforum.net\/forums\/minecraft-pocket-edition\/mcpe-maps\/1980297-extreme-spleef-arena-10-levels-of-pure-spleef"
   },
   {
     "title": "xPoizon’s Golf Course",
@@ -1220,14 +1221,14 @@
     "type": "maps",
     "author": {
       "name": "Unix704",
-      "avatar": "https://avatars.githubusercontent.com/u/76746346?v=4"
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/76746346?v=4"
     },
-    "thumbnail": "data/0.8.1/xPoizon’s Golf Course/thumb_1783527590579.jpg",
-    "file": "data/0.8.1/xPoizon’s Golf Course/xPoizon’s Golf Course.zip",
+    "thumbnail": "data\/0.8.1\/xPoizon’s Golf Course\/thumb_1783527590579.jpg",
+    "file": "data\/0.8.1\/xPoizon’s Golf Course\/xPoizon’s Golf Course.zip",
     "screenshots": [
-      "data/0.8.1/xPoizon’s Golf Course/screen_1_1783527592311.jpg",
-      "data/0.8.1/xPoizon’s Golf Course/screen_2_1783527593845.jpg"
+      "data\/0.8.1\/xPoizon’s Golf Course\/screen_1_1783527592311.jpg",
+      "data\/0.8.1\/xPoizon’s Golf Course\/screen_2_1783527593845.jpg"
     ],
-    "original_link": "https://web.archive.org/web/20140527030536/http://mcpeuniverse.com/maps/xpoizons-golf-course/"
+    "original_link": "https:\/\/web.archive.org\/web\/20140527030536\/http:\/\/mcpeuniverse.com\/maps\/xpoizons-golf-course\/"
   }
 ]
